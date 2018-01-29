@@ -6,6 +6,8 @@ for file in glob.glob('*.horn.smt2'):
         lines = f.readlines()
     with open(file, 'w') as out:
         for line in lines:
+            line = line.replace('ite', 'ite_keyword')
+
             m = re.match('^\(query (.*)\)$', line)
             if m:
                 out.write('(declare-rel benchmark_query ())\n')

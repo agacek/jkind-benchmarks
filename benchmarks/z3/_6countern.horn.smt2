@@ -3,8 +3,8 @@
 (declare-var |_OK_.next| Bool)
 (declare-var |flby| Int)
 (declare-var |flby.next| Int)
-(declare-var |ite| Int)
-(declare-var |ite.next| Int)
+(declare-var |ite_keyword| Int)
+(declare-var |ite_keyword.next| Int)
 (declare-var |time| Int)
 (declare-var |time.next| Int)
 
@@ -19,16 +19,16 @@
 .def_19))))))))
 
 (define-fun .trans () Bool
-(let ((.def_38 (* (- 1) ite.next)))
+(let ((.def_38 (* (- 1) ite_keyword.next)))
 (let ((.def_39 (+ time .def_38)))
 (let ((.def_40 (= .def_39 (- 1))))
 (let ((.def_32 (= time 5)))
 (let ((.def_41 (or .def_32 .def_40)))
-(let ((.def_34 (= ite.next 0)))
+(let ((.def_34 (= ite_keyword.next 0)))
 (let ((.def_33 (not .def_32)))
 (let ((.def_35 (or .def_33 .def_34)))
 (let ((.def_42 (and .def_35 .def_41)))
-(let ((.def_30 (= flby.next ite.next)))
+(let ((.def_30 (= flby.next ite_keyword.next)))
 (let ((.def_43 (and .def_30 .def_42)))
 (let ((.def_23 (<= 0 time.next)))
 (let ((.def_24 (not .def_23)))
@@ -47,6 +47,8 @@
 (define-fun .property () Bool
 _OK_)
 
-(rule (=> .init (state |_OK_| |flby| |ite| |time|)))
-(rule (=> (and (state |_OK_| |flby| |ite| |time|) .trans) (state |_OK_.next| |flby.next| |ite.next| |time.next|)))
-(query (and (state |_OK_| |flby| |ite| |time|) (not .property)))
+(rule (=> .init (state |_OK_| |flby| |ite_keyword| |time|)))
+(rule (=> (and (state |_OK_| |flby| |ite_keyword| |time|) .trans) (state |_OK_.next| |flby.next| |ite_keyword.next| |time.next|)))
+(declare-rel benchmark_query ())
+(rule (=> (and (state |_OK_| |flby| |ite_keyword| |time|) (not .property)) benchmark_query))
+(query benchmark_query)

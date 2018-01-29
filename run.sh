@@ -34,7 +34,7 @@ function run_group () {
 # LIA benchmarks
 #############################################################################
 
-benchmarks=benchmarks/lustre.txt
+benchmarks=benchmarks/files.txt
 
 # IC3+IA(LIA)
 #run_group "IC3+IA(LIA)" $benchmarks "results/ic3_ia.txt" "benchmarks/trans" "" ./bin/ic3smt -predabs=true -input=smt2 -preproc_reset=true

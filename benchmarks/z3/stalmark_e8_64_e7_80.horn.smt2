@@ -106,4 +106,6 @@ _OK_)
 
 (rule (=> .init (state |_OK_| |a| |b| |c| |flby| |flby2| |flby3|)))
 (rule (=> (and (state |_OK_| |a| |b| |c| |flby| |flby2| |flby3|) .trans) (state |_OK_.next| |a.next| |b.next| |c.next| |flby.next| |flby2.next| |flby3.next|)))
-(query (and (state |_OK_| |a| |b| |c| |flby| |flby2| |flby3|) (not .property)))
+(declare-rel benchmark_query ())
+(rule (=> (and (state |_OK_| |a| |b| |c| |flby| |flby2| |flby3|) (not .property)) benchmark_query))
+(query benchmark_query)
