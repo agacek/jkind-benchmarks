@@ -1,0 +1,5 @@
+Get working with z3
+Get working with nuxmv
+Check for duplicates
+Commit to github
+Write script to process and plot results
