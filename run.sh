@@ -37,10 +37,10 @@ function run_group () {
 benchmarks=benchmarks/files.txt
 
 # IC3+IA(LIA)
-#run_group "IC3+IA(LIA)" $benchmarks "results/ic3_ia.txt" "benchmarks/trans" "" ./bin/ic3smt -predabs=true -input=smt2 -preproc_reset=true
+run_group "IC3+IA(LIA)" $benchmarks "results/ic3_ia.txt" "benchmarks/trans" "" ./bin/ic3smt -predabs=true -input=smt2 -preproc_reset=true
 
 # z3
-run_group "Z3" $benchmarks "results/z3.txt" "benchmarks/z3" ".horn.smt2" ./scripts/z3.sh
+#run_group "Z3" $benchmarks "results/z3.txt" "benchmarks/z3" ".horn.smt2" ./scripts/z3.sh
 
 # kind2
 run_group "Kind" $benchmarks "results/kind2.txt" "benchmarks/lustre" ".lus" ./scripts/kind2.sh
