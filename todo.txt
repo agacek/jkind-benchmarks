@@ -1,5 +1,2 @@
-Get working with z3
-Get working with nuxmv
-Check for duplicates
-Commit to github
+Get kind2 to compile
 Write script to process and plot results
