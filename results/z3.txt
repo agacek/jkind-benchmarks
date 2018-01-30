@@ -1,0 +1,8629 @@
+####################################################
+_6counter
+sat
+(:max-memory   2.51
+ :memory       2.51
+ :mk-bool-var  1
+ :num-allocs   166211
+ :rlimit-count 6595
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+_6counter2
+sat
+(:max-memory   2.42
+ :memory       2.42
+ :mk-bool-var  1
+ :num-allocs   154897
+ :rlimit-count 6250
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+_6countern
+sat
+(:max-memory   4.09
+ :memory       4.09
+ :mk-bool-var  1
+ :num-allocs   483878
+ :rlimit-count 1572
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.01
+####################################################
+_6counters
+sat
+(:max-memory   6.45
+ :memory       6.10
+ :mk-bool-var  1
+ :num-allocs   35933648
+ :rlimit-count 173519
+ :time         0.12
+ :total-time   0.13)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+_6counters_e3_140_e8_149
+unsat
+(:max-memory   5.06
+ :memory       4.32
+ :mk-bool-var  1
+ :num-allocs   1961260
+ :rlimit-count 5861
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+_6counters_e8_371_e1_448
+unsat
+(:max-memory   6.08
+ :memory       5.29
+ :mk-bool-var  1
+ :num-allocs   11621833
+ :rlimit-count 68974
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+_6counters_e8_371_e2_80
+unsat
+(:max-memory   4.96
+ :memory       4.22
+ :mk-bool-var  1
+ :num-allocs   1386184
+ :rlimit-count 3294
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+_6counters_e8_371_e7_304
+sat
+(:max-memory   5.17
+ :memory       4.79
+ :mk-bool-var  1
+ :num-allocs   5385811
+ :rlimit-count 35059
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+car_1
+unsat
+(:max-memory   5.31
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1717114
+ :rlimit-count 7842
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_1_e7_184_e3_299
+unsat
+(:max-memory   5.40
+ :memory       4.67
+ :mk-bool-var  1
+ :num-allocs   2342516
+ :rlimit-count 12358
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_2
+unsat
+(:max-memory   5.31
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1739264
+ :rlimit-count 7859
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_2_e7_1027_e1_1047
+unsat
+(:max-memory   5.49
+ :memory       4.76
+ :mk-bool-var  1
+ :num-allocs   7070367
+ :rlimit-count 41409
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+car_2_e7_1027_e7_359
+unsat
+(:max-memory   6.70
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   5919697
+ :rlimit-count 82980
+ :time         0.04
+ :total-time   0.05)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+car_2_e8_491_e7_826
+unsat
+(:max-memory   5.69
+ :memory       4.90
+ :mk-bool-var  1
+ :num-allocs   7147730
+ :rlimit-count 46616
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+car_3
+unsat
+(:max-memory   5.32
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1739404
+ :rlimit-count 7872
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+car_3_e1_586
+sat
+(:max-memory   5.18
+ :memory       4.74
+ :mk-bool-var  1
+ :num-allocs   2405011
+ :rlimit-count 33949
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+car_3_e2_695
+unsat
+(:max-memory   5.32
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1688329
+ :rlimit-count 7788
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_3_e7_626
+unsat
+(:max-memory   5.31
+ :memory       4.57
+ :mk-bool-var  1
+ :num-allocs   1734015
+ :rlimit-count 7597
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.00
+sys 0.01
+####################################################
+car_3_e7_626_e1_305
+sat
+(:max-memory   5.18
+ :memory       4.71
+ :mk-bool-var  1
+ :num-allocs   3210836
+ :rlimit-count 40694
+ :time         0.03
+ :total-time   0.04)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+car_3_e8_33
+unsat
+(:max-memory   5.32
+ :memory       4.59
+ :mk-bool-var  1
+ :num-allocs   1721165
+ :rlimit-count 7870
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_3_e8_33_e1_856
+sat
+(:max-memory   5.18
+ :memory       4.76
+ :mk-bool-var  1
+ :num-allocs   2603726
+ :rlimit-count 37323
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+car_3_e8_33_e2_1010
+unsat
+(:max-memory   5.32
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1691583
+ :rlimit-count 7756
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_3_e8_33_e7_220
+unsat
+(:max-memory   6.98
+ :memory       6.20
+ :mk-bool-var  1
+ :num-allocs   10099600
+ :rlimit-count 117109
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+car_4_e3_556
+sat
+(:max-memory   4.97
+ :memory       4.59
+ :mk-bool-var  1
+ :num-allocs   1193149
+ :rlimit-count 11884
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_4_e3_57_e4_1047
+unsat
+(:max-memory   5.31
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1689466
+ :rlimit-count 7594
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+car_4_e3_57_e5_999
+sat
+(:max-memory   5.01
+ :memory       4.67
+ :mk-bool-var  1
+ :num-allocs   1183190
+ :rlimit-count 11884
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_4_e3_57_e6_784
+unsat
+(:max-memory   5.31
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1737762
+ :rlimit-count 7731
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_4_e3_57_e7_350
+sat
+(:max-memory   4.96
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1168019
+ :rlimit-count 11995
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_4_e7_592
+unsat
+(:max-memory   5.39
+ :memory       4.67
+ :mk-bool-var  1
+ :num-allocs   2331678
+ :rlimit-count 12004
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_4_e7_592_e7_265
+unsat
+(:max-memory   5.37
+ :memory       4.65
+ :mk-bool-var  1
+ :num-allocs   2349757
+ :rlimit-count 11712
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_4_e8_118
+unsat
+(:max-memory   5.31
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1707887
+ :rlimit-count 7728
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+car_4_e8_118_e3_514
+sat
+(:max-memory   4.97
+ :memory       4.70
+ :mk-bool-var  1
+ :num-allocs   1264727
+ :rlimit-count 14206
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_4_e8_118_e7_178
+unsat
+(:max-memory   6.32
+ :memory       5.54
+ :mk-bool-var  1
+ :num-allocs   4058905
+ :rlimit-count 63561
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+car_5
+unsat
+(:max-memory   13.03
+ :memory       11.90
+ :mk-bool-var  1
+ :num-allocs   718333054
+ :rlimit-count 1674466
+ :time         0.81
+ :total-time   0.82)
+real 0.82
+user 0.81
+sys 0.00
+####################################################
+car_5_e2_405_e2_1083
+sat
+(:max-memory   5.53
+ :memory       5.15
+ :mk-bool-var  1
+ :num-allocs   15070758
+ :rlimit-count 98488
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.00
+####################################################
+car_5_e2_405_e3_473
+sat
+(:max-memory   5.55
+ :memory       5.18
+ :mk-bool-var  1
+ :num-allocs   16642160
+ :rlimit-count 103329
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.01
+####################################################
+car_5_e2_405_e7_1028
+sat
+(:max-memory   5.29
+ :memory       4.92
+ :mk-bool-var  1
+ :num-allocs   13700529
+ :rlimit-count 84438
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+car_5_e2_405_e8_1055
+sat
+(:max-memory   5.52
+ :memory       5.13
+ :mk-bool-var  1
+ :num-allocs   16032551
+ :rlimit-count 100425
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+car_5_e3_11
+sat
+(:max-memory   5.57
+ :memory       5.21
+ :mk-bool-var  1
+ :num-allocs   15251989
+ :rlimit-count 105452
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.00
+####################################################
+car_5_e3_11_e1_429
+sat
+(:max-memory   5.58
+ :memory       5.22
+ :mk-bool-var  1
+ :num-allocs   15315638
+ :rlimit-count 105456
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+car_5_e3_11_e5_24
+sat
+(:max-memory   5.58
+ :memory       5.22
+ :mk-bool-var  1
+ :num-allocs   15281719
+ :rlimit-count 105452
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+car_5_e3_11_e7_693
+sat
+(:max-memory   5.50
+ :memory       5.13
+ :mk-bool-var  1
+ :num-allocs   15614533
+ :rlimit-count 101183
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.00
+####################################################
+car_5_e7_244
+unsat
+(:max-memory   13.45
+ :memory       12.36
+ :mk-bool-var  1
+ :num-allocs   796453067
+ :rlimit-count 1654963
+ :time         0.80
+ :total-time   0.80)
+real 0.80
+user 0.79
+sys 0.00
+####################################################
+car_5_e7_244_e1_823
+unsat
+(:max-memory   12.48
+ :memory       11.54
+ :mk-bool-var  1
+ :num-allocs   902812095
+ :rlimit-count 1739811
+ :time         0.80
+ :total-time   0.81)
+real 0.81
+user 0.81
+sys 0.00
+####################################################
+car_6
+unsat
+(:max-memory   19.89
+ :memory       18.49
+ :mk-bool-var  1
+ :num-allocs   1777003162
+ :rlimit-count 2973005
+ :time         1.33
+ :total-time   1.34)
+real 1.35
+user 1.35
+sys 0.00
+####################################################
+car_6_e1_152
+unsat
+(:max-memory   13.27
+ :memory       12.07
+ :mk-bool-var  1
+ :num-allocs   402724457
+ :rlimit-count 1163703
+ :time         0.53
+ :total-time   0.54)
+real 0.54
+user 0.53
+sys 0.00
+####################################################
+car_6_e1_152_e1_391
+unsat
+(:max-memory   10.51
+ :memory       9.48
+ :mk-bool-var  1
+ :num-allocs   168028966
+ :rlimit-count 634186
+ :time         0.32
+ :total-time   0.33)
+real 0.33
+user 0.33
+sys 0.00
+####################################################
+car_6_e2_589_e2_506
+sat
+(:max-memory   9.05
+ :memory       8.59
+ :mk-bool-var  1
+ :num-allocs   25769993
+ :rlimit-count 262157
+ :time         0.14
+ :total-time   0.14)
+real 0.14
+user 0.14
+sys 0.00
+####################################################
+car_6_e2_589_e3_349
+sat
+(:max-memory   9.07
+ :memory       8.40
+ :mk-bool-var  1
+ :num-allocs   27737435
+ :rlimit-count 259514
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+car_6_e2_893
+sat
+(:max-memory   8.33
+ :memory       8.01
+ :mk-bool-var  1
+ :num-allocs   22297303
+ :rlimit-count 223071
+ :time         0.12
+ :total-time   0.13)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+car_6_e3_294_e1_956
+sat
+(:max-memory   8.14
+ :memory       7.73
+ :mk-bool-var  1
+ :num-allocs   22905828
+ :rlimit-count 223438
+ :time         0.12
+ :total-time   0.12)
+real 0.12
+user 0.12
+sys 0.00
+####################################################
+car_6_e3_294_e3_47
+sat
+(:max-memory   8.41
+ :memory       8.07
+ :mk-bool-var  1
+ :num-allocs   23585273
+ :rlimit-count 238629
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+car_6_e3_294_e5_979
+sat
+(:max-memory   8.13
+ :memory       7.72
+ :mk-bool-var  1
+ :num-allocs   22309751
+ :rlimit-count 219666
+ :time         0.11
+ :total-time   0.12)
+real 0.12
+user 0.11
+sys 0.00
+####################################################
+car_all_e1_388
+sat
+(:max-memory   5.28
+ :memory       4.84
+ :mk-bool-var  1
+ :num-allocs   2748096
+ :rlimit-count 40830
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+car_all_e1_618_e3_303
+sat
+(:max-memory   5.25
+ :memory       4.83
+ :mk-bool-var  1
+ :num-allocs   2847181
+ :rlimit-count 41112
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+car_all_e2_108
+unsat
+(:max-memory   5.35
+ :memory       4.62
+ :mk-bool-var  1
+ :num-allocs   1714621
+ :rlimit-count 8638
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_all_e2_142_e7_209
+unsat
+(:max-memory   5.54
+ :memory       4.83
+ :mk-bool-var  1
+ :num-allocs   4492786
+ :rlimit-count 30376
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+car_all_e2_142_e8_194
+unsat
+(:max-memory   5.35
+ :memory       4.61
+ :mk-bool-var  1
+ :num-allocs   1712801
+ :rlimit-count 8641
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_all_e3_1068
+sat
+(:max-memory   4.99
+ :memory       4.71
+ :mk-bool-var  1
+ :num-allocs   1153279
+ :rlimit-count 13122
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_all_e3_1068_e1_178
+sat
+(:max-memory   4.99
+ :memory       4.71
+ :mk-bool-var  1
+ :num-allocs   1153989
+ :rlimit-count 13126
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_all_e3_1068_e2_13
+sat
+(:max-memory   4.99
+ :memory       4.61
+ :mk-bool-var  1
+ :num-allocs   1154402
+ :rlimit-count 12810
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_all_e3_1068_e3_163
+sat
+(:max-memory   5.01
+ :memory       4.63
+ :mk-bool-var  1
+ :num-allocs   1318594
+ :rlimit-count 15401
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_all_e3_1068_e5_882
+sat
+(:max-memory   4.99
+ :memory       4.71
+ :mk-bool-var  1
+ :num-allocs   1153726
+ :rlimit-count 13248
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+car_all_e3_1068_e6_790
+unsat
+(:max-memory   5.38
+ :memory       4.64
+ :mk-bool-var  1
+ :num-allocs   1746950
+ :rlimit-count 8927
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+car_all_e7_188_e7_743
+unsat
+(:max-memory   5.83
+ :memory       5.12
+ :mk-bool-var  1
+ :num-allocs   7116841
+ :rlimit-count 51772
+ :time         0.03
+ :total-time   0.04)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+car_all_e8_856
+unsat
+(:max-memory   5.34
+ :memory       4.61
+ :mk-bool-var  1
+ :num-allocs   1767788
+ :rlimit-count 8812
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+car_all_e8_856_e1_217
+sat
+(:max-memory   5.26
+ :memory       4.82
+ :mk-bool-var  1
+ :num-allocs   2803133
+ :rlimit-count 39840
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+car_all_e8_856_e3_180
+sat
+(:max-memory   5.00
+ :memory       4.72
+ :mk-bool-var  1
+ :num-allocs   1177517
+ :rlimit-count 13275
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+car_all_e8_856_e7_578
+unsat
+(:max-memory   6.96
+ :memory       6.17
+ :mk-bool-var  1
+ :num-allocs   9611655
+ :rlimit-count 111693
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+cd_e7_621
+sat
+(:max-memory   5.91
+ :memory       5.43
+ :mk-bool-var  1
+ :num-allocs   13026112
+ :rlimit-count 93916
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+cd_e7_621_e7_669
+sat
+(:max-memory   5.76
+ :memory       5.39
+ :mk-bool-var  1
+ :num-allocs   11572200
+ :rlimit-count 86176
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+cd_e7_621_e8_714
+unsat
+(:max-memory   7.28
+ :memory       6.07
+ :mk-bool-var  1
+ :num-allocs   114122685
+ :rlimit-count 392259
+ :time         0.19
+ :total-time   0.20)
+real 0.20
+user 0.20
+sys 0.00
+####################################################
+DRAGON_1
+unsat
+(:max-memory   8.10
+ :memory       5.82
+ :mk-bool-var  1
+ :num-allocs   3860474
+ :rlimit-count 28672
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_10_e1_3587_e3_2749
+unsat
+(:max-memory   8.07
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3945408
+ :rlimit-count 34091
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_10_e1_3587_e7_872
+sat
+(:max-memory   8.07
+ :memory       6.71
+ :mk-bool-var  1
+ :num-allocs   7186780
+ :rlimit-count 86973
+ :time         0.04
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+DRAGON_10_e1_998
+unsat
+(:max-memory   8.07
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3952807
+ :rlimit-count 33701
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_10_e2_2785_e3_1744
+unsat
+(:max-memory   8.07
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3945840
+ :rlimit-count 34083
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_10_e2_2785_e7_1466
+sat
+(:max-memory   8.07
+ :memory       6.82
+ :mk-bool-var  1
+ :num-allocs   7001824
+ :rlimit-count 89511
+ :time         0.04
+ :total-time   0.05)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+DRAGON_10_e2_402
+unsat
+(:max-memory   8.07
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3947030
+ :rlimit-count 33972
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+DRAGON_10_e3_144_e5_2046
+unsat
+(:max-memory   8.07
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3945978
+ :rlimit-count 34187
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+DRAGON_10_e3_144_e6_4484
+unsat
+(:max-memory   8.07
+ :memory       5.93
+ :mk-bool-var  1
+ :num-allocs   3975576
+ :rlimit-count 32881
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+DRAGON_10_e3_144_e7_523
+sat
+(:max-memory   8.07
+ :memory       6.85
+ :mk-bool-var  1
+ :num-allocs   6378149
+ :rlimit-count 90339
+ :time         0.04
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+DRAGON_10_e3_3429
+unsat
+(:max-memory   8.07
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3945767
+ :rlimit-count 34179
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+DRAGON_10_e7_3861_e7_2180
+sat
+(:max-memory   8.07
+ :memory       6.26
+ :mk-bool-var  1
+ :num-allocs   6231776
+ :rlimit-count 85271
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.01
+####################################################
+DRAGON_11_e1_1117_e7_4950
+sat
+(:max-memory   8.07
+ :memory       6.92
+ :mk-bool-var  1
+ :num-allocs   12556640
+ :rlimit-count 170743
+ :time         0.08
+ :total-time   0.09)
+real 0.09
+user 0.09
+sys 0.00
+####################################################
+DRAGON_11_e1_2450
+./run.sh: line 25:  5374 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.97
+sys 0.02
+####################################################
+DRAGON_11_e1_2450_e1_5887
+./run.sh: line 25:  5376 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.96
+sys 0.03
+####################################################
+DRAGON_11_e1_2450_e2_1483
+./run.sh: line 25:  5379 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.97
+sys 0.02
+####################################################
+DRAGON_11_e1_2450_e3_2330
+./run.sh: line 25:  5381 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.97
+sys 0.02
+####################################################
+DRAGON_11_e2_5396_e3_282
+./run.sh: line 25:  5383 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.96
+sys 0.03
+####################################################
+DRAGON_11_e3_382_e1_505
+./run.sh: line 25:  5385 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.01
+####################################################
+DRAGON_12_e1_4640_e7_128
+sat
+(:max-memory   8.07
+ :memory       6.96
+ :mk-bool-var  1
+ :num-allocs   11357600
+ :rlimit-count 160667
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.00
+####################################################
+DRAGON_12_e2_1618
+unsat
+(:max-memory   16.60
+ :memory       15.01
+ :mk-bool-var  1
+ :num-allocs   3399255766
+ :rlimit-count 9029482
+ :time         3.07
+ :total-time   3.08)
+real 3.09
+user 3.08
+sys 0.00
+####################################################
+DRAGON_12_e2_1618_e1_6030
+unsat
+(:max-memory   18.65
+ :memory       16.88
+ :mk-bool-var  1
+ :num-allocs   5812182064.00
+ :rlimit-count 11464117
+ :time         4.10
+ :total-time   4.10)
+real 4.11
+user 4.10
+sys 0.01
+####################################################
+DRAGON_12_e2_1618_e2_138
+unsat
+(:max-memory   25.77
+ :memory       21.73
+ :mk-bool-var  1
+ :num-allocs   15205774023.00
+ :rlimit-count 22224363
+ :time         6.92
+ :total-time   6.93)
+real 6.94
+user 6.92
+sys 0.01
+####################################################
+DRAGON_12_e2_1618_e3_2012
+unsat
+(:max-memory   24.43
+ :memory       20.05
+ :mk-bool-var  1
+ :num-allocs   7636340435.00
+ :rlimit-count 15814415
+ :time         5.08
+ :total-time   5.08)
+real 5.09
+user 5.08
+sys 0.00
+####################################################
+DRAGON_12_e2_1618_e7_4732
+sat
+(:max-memory   8.07
+ :memory       6.90
+ :mk-bool-var  1
+ :num-allocs   12598121
+ :rlimit-count 172581
+ :time         0.07
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+DRAGON_13_e3_1418_e3_2761
+unsat
+(:max-memory   15.45
+ :memory       13.24
+ :mk-bool-var  1
+ :num-allocs   1330958393
+ :rlimit-count 5026996
+ :time         1.55
+ :total-time   1.55)
+real 1.56
+user 1.54
+sys 0.01
+####################################################
+DRAGON_13_e7_2336
+sat
+(:max-memory   8.07
+ :memory       6.36
+ :mk-bool-var  1
+ :num-allocs   5401286
+ :rlimit-count 82606
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_13_e7_2336_e1_541
+sat
+(:max-memory   8.07
+ :memory       6.88
+ :mk-bool-var  1
+ :num-allocs   10935115
+ :rlimit-count 158529
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.00
+####################################################
+DRAGON_13_e7_2336_e2_1255
+sat
+(:max-memory   8.07
+ :memory       6.92
+ :mk-bool-var  1
+ :num-allocs   8012608
+ :rlimit-count 124755
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+DRAGON_13_e7_2336_e3_3117
+sat
+(:max-memory   8.07
+ :memory       6.85
+ :mk-bool-var  1
+ :num-allocs   11241359
+ :rlimit-count 153087
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+DRAGON_13_e7_2336_e7_685
+sat
+(:max-memory   8.09
+ :memory       6.33
+ :mk-bool-var  1
+ :num-allocs   6328620
+ :rlimit-count 97106
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+DRAGON_13_e7_2336_e8_1940
+unsat
+(:max-memory   12.69
+ :memory       11.42
+ :mk-bool-var  1
+ :num-allocs   1411592227
+ :rlimit-count 5304463
+ :time         1.74
+ :total-time   1.75)
+real 1.75
+user 1.75
+sys 0.00
+####################################################
+DRAGON_14_e1_2392
+./run.sh: line 25:  5413 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.01
+####################################################
+DRAGON_14_e2_3606
+./run.sh: line 25:  5447 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.95
+sys 0.04
+####################################################
+DRAGON_14_e2_3606_e7_4891
+sat
+(:max-memory   10.27
+ :memory       9.42
+ :mk-bool-var  1
+ :num-allocs   624148101
+ :rlimit-count 2736779
+ :time         0.90
+ :total-time   0.91)
+real 0.91
+user 0.90
+sys 0.01
+####################################################
+DRAGON_14_e3_1259_e1_5798
+./run.sh: line 25:  5463 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.97
+sys 0.02
+####################################################
+DRAGON_14_e3_5120
+./run.sh: line 25:  5465 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.97
+sys 0.02
+####################################################
+DRAGON_14_e7_3162
+sat
+(:max-memory   10.46
+ :memory       9.79
+ :mk-bool-var  1
+ :num-allocs   589504782
+ :rlimit-count 2596379
+ :time         0.87
+ :total-time   0.88)
+real 0.88
+user 0.87
+sys 0.01
+####################################################
+DRAGON_14_e7_3162_e1_3998
+sat
+(:max-memory   10.82
+ :memory       9.87
+ :mk-bool-var  1
+ :num-allocs   685804664
+ :rlimit-count 2947329
+ :time         0.97
+ :total-time   0.97)
+real 0.97
+user 0.97
+sys 0.00
+####################################################
+DRAGON_14_e7_3162_e3_4298
+sat
+(:max-memory   10.31
+ :memory       9.57
+ :mk-bool-var  1
+ :num-allocs   558906473
+ :rlimit-count 2549173
+ :time         0.79
+ :total-time   0.80)
+real 0.80
+user 0.80
+sys 0.00
+####################################################
+DRAGON_14_e7_3162_e7_3528
+sat
+(:max-memory   10.47
+ :memory       9.55
+ :mk-bool-var  1
+ :num-allocs   638259963
+ :rlimit-count 2834955
+ :time         0.90
+ :total-time   0.91)
+real 0.91
+user 0.91
+sys 0.00
+####################################################
+DRAGON_14_e7_3162_e8_5719
+./run.sh: line 25:  5481 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.97
+sys 0.02
+####################################################
+DRAGON_1_e1_14612_e1_268_e7_501
+unsat
+(:max-memory   8.10
+ :memory       6.15
+ :mk-bool-var  1
+ :num-allocs   5726226
+ :rlimit-count 43218
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+DRAGON_1_e1_14612_e2_2653_e7_4370
+unsat
+(:max-memory   8.10
+ :memory       6.15
+ :mk-bool-var  1
+ :num-allocs   5795969
+ :rlimit-count 45127
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+DRAGON_1_e1_14612_e7_1026
+unsat
+(:max-memory   8.10
+ :memory       6.15
+ :mk-bool-var  1
+ :num-allocs   5723383
+ :rlimit-count 43218
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_1_e1_3184
+unsat
+(:max-memory   8.10
+ :memory       5.82
+ :mk-bool-var  1
+ :num-allocs   3815435
+ :rlimit-count 28774
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+DRAGON_1_e2_1997
+unsat
+(:max-memory   8.10
+ :memory       5.82
+ :mk-bool-var  1
+ :num-allocs   3815967
+ :rlimit-count 28782
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_1_e2_1997_e7_3613_e2_3409
+unsat
+(:max-memory   8.10
+ :memory       6.16
+ :mk-bool-var  1
+ :num-allocs   5730843
+ :rlimit-count 43684
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+DRAGON_1_e3_11891_e7_4569_e4_4881
+unsat
+(:max-memory   8.10
+ :memory       6.19
+ :mk-bool-var  1
+ :num-allocs   5760205
+ :rlimit-count 44744
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+DRAGON_2_e1_2316
+unsat
+(:max-memory   8.05
+ :memory       6.77
+ :mk-bool-var  1
+ :num-allocs   5147267
+ :rlimit-count 81655
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+DRAGON_2_e2_3183
+unsat
+(:max-memory   8.05
+ :memory       6.89
+ :mk-bool-var  1
+ :num-allocs   5179161
+ :rlimit-count 79642
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.01
+####################################################
+DRAGON_2_e2_3183_e1_2644
+unsat
+(:max-memory   8.04
+ :memory       6.98
+ :mk-bool-var  1
+ :num-allocs   5213460
+ :rlimit-count 81541
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_2_e2_3183_e2_3580
+unsat
+(:max-memory   8.05
+ :memory       6.99
+ :mk-bool-var  1
+ :num-allocs   5242890
+ :rlimit-count 85479
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_2_e2_3183_e3_5972
+unsat
+(:max-memory   8.05
+ :memory       6.96
+ :mk-bool-var  1
+ :num-allocs   5327986
+ :rlimit-count 84071
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_2_e7_25
+sat
+(:max-memory   8.04
+ :memory       7.00
+ :mk-bool-var  1
+ :num-allocs   7256762
+ :rlimit-count 131471
+ :time         0.07
+ :total-time   0.07)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+DRAGON_2_e7_25_e1_154
+sat
+(:max-memory   8.05
+ :memory       7.07
+ :mk-bool-var  1
+ :num-allocs   7388891
+ :rlimit-count 138855
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.07
+sys 0.01
+####################################################
+DRAGON_2_e7_25_e2_5340
+sat
+(:max-memory   8.05
+ :memory       7.10
+ :mk-bool-var  1
+ :num-allocs   8301850
+ :rlimit-count 160809
+ :time         0.07
+ :total-time   0.07)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+DRAGON_2_e7_25_e3_829
+sat
+(:max-memory   8.05
+ :memory       7.16
+ :mk-bool-var  1
+ :num-allocs   8724721
+ :rlimit-count 158257
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+DRAGON_2_e7_25_e7_4469
+sat
+(:max-memory   8.06
+ :memory       7.06
+ :mk-bool-var  1
+ :num-allocs   7895253
+ :rlimit-count 156126
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+DRAGON_3_e1_4783
+unsat
+(:max-memory   8.10
+ :memory       6.83
+ :mk-bool-var  1
+ :num-allocs   5107814
+ :rlimit-count 83979
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e1_4783_e1_3755
+unsat
+(:max-memory   8.10
+ :memory       6.83
+ :mk-bool-var  1
+ :num-allocs   5109329
+ :rlimit-count 78748
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e1_4783_e2_158
+unsat
+(:max-memory   8.10
+ :memory       6.94
+ :mk-bool-var  1
+ :num-allocs   5309739
+ :rlimit-count 78980
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e1_4783_e3_511
+unsat
+(:max-memory   8.10
+ :memory       6.95
+ :mk-bool-var  1
+ :num-allocs   5259122
+ :rlimit-count 82060
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e1_4783_e7_4070
+sat
+(:max-memory   8.10
+ :memory       7.18
+ :mk-bool-var  1
+ :num-allocs   11939636
+ :rlimit-count 200016
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.07
+sys 0.00
+####################################################
+DRAGON_3_e3_3846
+unsat
+(:max-memory   8.10
+ :memory       6.86
+ :mk-bool-var  1
+ :num-allocs   5105683
+ :rlimit-count 78730
+ :time         0.03
+ :total-time   0.04)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e3_5422_e1_2288
+unsat
+(:max-memory   8.10
+ :memory       6.86
+ :mk-bool-var  1
+ :num-allocs   5104072
+ :rlimit-count 76877
+ :time         0.03
+ :total-time   0.04)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e3_5422_e2_3135
+unsat
+(:max-memory   8.10
+ :memory       6.82
+ :mk-bool-var  1
+ :num-allocs   5107636
+ :rlimit-count 85215
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_3_e7_3211
+sat
+(:max-memory   8.10
+ :memory       6.71
+ :mk-bool-var  1
+ :num-allocs   5371687
+ :rlimit-count 102042
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+DRAGON_4_e1_4312
+unsat
+(:max-memory   15.48
+ :memory       12.96
+ :mk-bool-var  1
+ :num-allocs   1500571974
+ :rlimit-count 5196644
+ :time         1.71
+ :total-time   1.72)
+real 1.72
+user 1.71
+sys 0.01
+####################################################
+DRAGON_4_e2_2799
+unsat
+(:max-memory   12.09
+ :memory       10.88
+ :mk-bool-var  1
+ :num-allocs   1089495129
+ :rlimit-count 4514594
+ :time         1.50
+ :total-time   1.51)
+real 1.51
+user 1.51
+sys 0.00
+####################################################
+DRAGON_4_e2_2799_e1_1303
+unsat
+(:max-memory   17.28
+ :memory       15.85
+ :mk-bool-var  1
+ :num-allocs   4821644580.00
+ :rlimit-count 10247670
+ :time         3.48
+ :total-time   3.49)
+real 3.49
+user 3.48
+sys 0.01
+####################################################
+DRAGON_4_e2_2799_e2_2251
+unsat
+(:max-memory   11.71
+ :memory       10.55
+ :mk-bool-var  1
+ :num-allocs   867956206
+ :rlimit-count 3927174
+ :time         1.32
+ :total-time   1.32)
+real 1.33
+user 1.31
+sys 0.01
+####################################################
+DRAGON_4_e2_2799_e3_1915
+unsat
+(:max-memory   12.35
+ :memory       11.05
+ :mk-bool-var  1
+ :num-allocs   1231258388
+ :rlimit-count 5430501
+ :time         2.19
+ :total-time   2.20)
+real 2.20
+user 2.20
+sys 0.00
+####################################################
+DRAGON_4_e2_2799_e7_2499
+sat
+(:max-memory   8.09
+ :memory       7.40
+ :mk-bool-var  1
+ :num-allocs   38151051
+ :rlimit-count 415097
+ :time         0.21
+ :total-time   0.22)
+real 0.22
+user 0.22
+sys 0.00
+####################################################
+DRAGON_4_e3_1540_e1_5048
+unsat
+(:max-memory   12.72
+ :memory       11.45
+ :mk-bool-var  1
+ :num-allocs   1299846962
+ :rlimit-count 4963895
+ :time         1.81
+ :total-time   1.82)
+real 1.82
+user 1.81
+sys 0.01
+####################################################
+DRAGON_4_e3_4133
+unsat
+(:max-memory   11.90
+ :memory       10.72
+ :mk-bool-var  1
+ :num-allocs   919552711
+ :rlimit-count 4239902
+ :time         1.37
+ :total-time   1.37)
+real 1.38
+user 1.38
+sys 0.00
+####################################################
+DRAGON_4_e7_2077
+sat
+(:max-memory   8.96
+ :memory       8.08
+ :mk-bool-var  1
+ :num-allocs   197793627
+ :rlimit-count 1393790
+ :time         0.43
+ :total-time   0.44)
+real 0.44
+user 0.44
+sys 0.00
+####################################################
+DRAGON_4_e7_2329_e3_4574
+sat
+(:max-memory   8.58
+ :memory       7.97
+ :mk-bool-var  1
+ :num-allocs   135838919
+ :rlimit-count 1109844
+ :time         0.37
+ :total-time   0.37)
+real 0.37
+user 0.37
+sys 0.00
+####################################################
+DRAGON_4_e7_2329_e7_3856
+sat
+(:max-memory   8.77
+ :memory       7.93
+ :mk-bool-var  1
+ :num-allocs   169936280
+ :rlimit-count 1081684
+ :time         0.38
+ :total-time   0.38)
+real 0.38
+user 0.38
+sys 0.00
+####################################################
+DRAGON_5_e1_1835
+unsat
+(:max-memory   11.14
+ :memory       9.98
+ :mk-bool-var  1
+ :num-allocs   514758724
+ :rlimit-count 3031892
+ :time         1.01
+ :total-time   1.02)
+real 1.02
+user 1.01
+sys 0.01
+####################################################
+DRAGON_5_e2_3018_e2_936
+unsat
+(:max-memory   12.00
+ :memory       10.84
+ :mk-bool-var  1
+ :num-allocs   1108436127
+ :rlimit-count 5689027
+ :time         1.63
+ :total-time   1.64)
+real 1.64
+user 1.64
+sys 0.00
+####################################################
+DRAGON_5_e2_3018_e7_2443
+sat
+(:max-memory   8.09
+ :memory       7.21
+ :mk-bool-var  1
+ :num-allocs   15677874
+ :rlimit-count 216715
+ :time         0.09
+ :total-time   0.09)
+real 0.10
+user 0.09
+sys 0.00
+####################################################
+DRAGON_5_e3_1503_e7_1879
+sat
+(:max-memory   8.09
+ :memory       7.19
+ :mk-bool-var  1
+ :num-allocs   16107613
+ :rlimit-count 224374
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.08
+sys 0.01
+####################################################
+DRAGON_5_e7_2017
+sat
+(:max-memory   8.09
+ :memory       7.11
+ :mk-bool-var  1
+ :num-allocs   11060925
+ :rlimit-count 178586
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.07
+sys 0.01
+####################################################
+DRAGON_5_e7_2017_e1_5832
+sat
+(:max-memory   8.09
+ :memory       7.43
+ :mk-bool-var  1
+ :num-allocs   34844061
+ :rlimit-count 383323
+ :time         0.15
+ :total-time   0.16)
+real 0.16
+user 0.15
+sys 0.00
+####################################################
+DRAGON_5_e7_2017_e7_2326
+sat
+(:max-memory   8.10
+ :memory       7.13
+ :mk-bool-var  1
+ :num-allocs   14954330
+ :rlimit-count 217314
+ :time         0.09
+ :total-time   0.09)
+real 0.10
+user 0.09
+sys 0.00
+####################################################
+DRAGON_5_e7_2017_e8_4841
+unsat
+(:max-memory   11.37
+ :memory       10.20
+ :mk-bool-var  1
+ :num-allocs   519446163
+ :rlimit-count 3171189
+ :time         0.98
+ :total-time   0.98)
+real 0.98
+user 0.97
+sys 0.01
+####################################################
+DRAGON_6
+unsat
+(:max-memory   8.09
+ :memory       5.82
+ :mk-bool-var  1
+ :num-allocs   3860297
+ :rlimit-count 29083
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+DRAGON_6_e7_5046_e7_3623
+unsat
+(:max-memory   8.09
+ :memory       6.27
+ :mk-bool-var  1
+ :num-allocs   6843177
+ :rlimit-count 60202
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_7
+unsat
+(:max-memory   8.09
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   3908522
+ :rlimit-count 31629
+ :time         0.02
+ :total-time   0.02)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+DRAGON_7_e2_2872_e2_5844
+unsat
+(:max-memory   8.09
+ :memory       5.98
+ :mk-bool-var  1
+ :num-allocs   4010125
+ :rlimit-count 35461
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+DRAGON_7_e2_2872_e3_2640
+unsat
+(:max-memory   8.09
+ :memory       5.99
+ :mk-bool-var  1
+ :num-allocs   4008738
+ :rlimit-count 36425
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+DRAGON_7_e2_2872_e7_1264
+unsat
+(:max-memory   8.09
+ :memory       6.36
+ :mk-bool-var  1
+ :num-allocs   9239709
+ :rlimit-count 100553
+ :time         0.05
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.01
+####################################################
+DRAGON_8
+unsat
+(:max-memory   8.09
+ :memory       7.06
+ :mk-bool-var  1
+ :num-allocs   16193273
+ :rlimit-count 183618
+ :time         0.08
+ :total-time   0.09)
+real 0.09
+user 0.08
+sys 0.00
+####################################################
+DRAGON_8_e2_3896_e3_3125
+unsat
+(:max-memory   9.85
+ :memory       8.66
+ :mk-bool-var  1
+ :num-allocs   512955431
+ :rlimit-count 4136240
+ :time         1.02
+ :total-time   1.02)
+real 1.02
+user 1.02
+sys 0.00
+####################################################
+DRAGON_8_e3_786
+unsat
+(:max-memory   8.09
+ :memory       6.79
+ :mk-bool-var  1
+ :num-allocs   10505567
+ :rlimit-count 115264
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.01
+####################################################
+DRAGON_8_e3_786_e7_4541
+unsat
+(:max-memory   8.09
+ :memory       6.88
+ :mk-bool-var  1
+ :num-allocs   9653251
+ :rlimit-count 107311
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+DRAGON_8_e7_3752
+unsat
+(:max-memory   9.31
+ :memory       8.19
+ :mk-bool-var  1
+ :num-allocs   102910244
+ :rlimit-count 1164451
+ :time         0.35
+ :total-time   0.36)
+real 0.36
+user 0.36
+sys 0.00
+####################################################
+DRAGON_9_e7_1843
+unsat
+(:max-memory   8.09
+ :memory       6.25
+ :mk-bool-var  1
+ :num-allocs   6769525
+ :rlimit-count 56297
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_9_e7_1843_e1_5434
+unsat
+(:max-memory   8.09
+ :memory       6.29
+ :mk-bool-var  1
+ :num-allocs   6662031
+ :rlimit-count 56986
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_9_e7_1843_e2_1145
+unsat
+(:max-memory   8.09
+ :memory       6.23
+ :mk-bool-var  1
+ :num-allocs   6295676
+ :rlimit-count 46060
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_9_e7_1843_e3_5316
+unsat
+(:max-memory   8.09
+ :memory       6.30
+ :mk-bool-var  1
+ :num-allocs   6925096
+ :rlimit-count 58745
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_9_e7_1843_e7_2225
+unsat
+(:max-memory   8.09
+ :memory       6.28
+ :mk-bool-var  1
+ :num-allocs   6321387
+ :rlimit-count 51612
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+DRAGON_9_e7_1843_e8_3031
+unsat
+(:max-memory   8.09
+ :memory       5.86
+ :mk-bool-var  1
+ :num-allocs   3889830
+ :rlimit-count 29452
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+DRAGON_all2_e1_2636_e7_4699
+sat
+(:max-memory   10.51
+ :memory       7.46
+ :mk-bool-var  1
+ :num-allocs   10835786
+ :rlimit-count 204215
+ :time         0.07
+ :total-time   0.07)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+DRAGON_all2_e1_2636_e8_5957
+sat
+(:max-memory   10.51
+ :memory       7.56
+ :mk-bool-var  1
+ :num-allocs   6813798
+ :rlimit-count 156891
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.01
+####################################################
+DRAGON_all2_e2_2073_e7_1864
+sat
+(:max-memory   10.51
+ :memory       7.40
+ :mk-bool-var  1
+ :num-allocs   8753008
+ :rlimit-count 166519
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+DRAGON_all2_e2_2073_e8_3691
+sat
+(:max-memory   10.51
+ :memory       7.50
+ :mk-bool-var  1
+ :num-allocs   7179363
+ :rlimit-count 152662
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all2_e3_4612_e1_6463
+unsat
+(:max-memory   16.26
+ :memory       12.79
+ :mk-bool-var  1
+ :num-allocs   471258154
+ :rlimit-count 2131827
+ :time         0.69
+ :total-time   0.69)
+real 0.70
+user 0.69
+sys 0.00
+####################################################
+DRAGON_all2_e3_4612_e2_5774
+unsat
+(:max-memory   19.38
+ :memory       14.50
+ :mk-bool-var  1
+ :num-allocs   695639000
+ :rlimit-count 1965148
+ :time         0.69
+ :total-time   0.69)
+real 0.70
+user 0.69
+sys 0.00
+####################################################
+DRAGON_all2_e3_4612_e3_1543
+unsat
+(:max-memory   19.69
+ :memory       15.40
+ :mk-bool-var  1
+ :num-allocs   967467902
+ :rlimit-count 3558728
+ :time         1.03
+ :total-time   1.04)
+real 1.04
+user 1.03
+sys 0.00
+####################################################
+DRAGON_all2_e3_4612_e6_274
+unsat
+(:max-memory   21.54
+ :memory       15.41
+ :mk-bool-var  1
+ :num-allocs   988970082
+ :rlimit-count 2529993
+ :time         0.80
+ :total-time   0.81)
+real 0.81
+user 0.79
+sys 0.01
+####################################################
+DRAGON_all2_e3_4612_e7_2291
+sat
+(:max-memory   10.51
+ :memory       7.56
+ :mk-bool-var  1
+ :num-allocs   15729835
+ :rlimit-count 249020
+ :time         0.08
+ :total-time   0.09)
+real 0.09
+user 0.08
+sys 0.00
+####################################################
+DRAGON_all2_e3_4612_e8_5861
+sat
+(:max-memory   10.51
+ :memory       7.76
+ :mk-bool-var  1
+ :num-allocs   8698039
+ :rlimit-count 169505
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.06
+sys 0.01
+####################################################
+DRAGON_all2_e7_5322
+sat
+(:max-memory   10.51
+ :memory       7.62
+ :mk-bool-var  1
+ :num-allocs   14944853
+ :rlimit-count 241602
+ :time         0.08
+ :total-time   0.09)
+real 0.09
+user 0.09
+sys 0.00
+####################################################
+DRAGON_all2_e7_5406_e7_6697
+sat
+(:max-memory   10.51
+ :memory       7.99
+ :mk-bool-var  1
+ :num-allocs   31052264
+ :rlimit-count 414477
+ :time         0.12
+ :total-time   0.13)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+DRAGON_all2_e8_4626
+sat
+(:max-memory   10.51
+ :memory       7.36
+ :mk-bool-var  1
+ :num-allocs   6103424
+ :rlimit-count 128741
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all2_e8_5504_e7_579
+sat
+(:max-memory   10.51
+ :memory       8.04
+ :mk-bool-var  1
+ :num-allocs   24781245
+ :rlimit-count 334417
+ :time         0.11
+ :total-time   0.11)
+real 0.12
+user 0.11
+sys 0.00
+####################################################
+DRAGON_all_e1_4022
+unsat
+(:max-memory   8.18
+ :memory       7.34
+ :mk-bool-var  1
+ :num-allocs   5662270
+ :rlimit-count 121953
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+DRAGON_all_e1_4022_e1_1759
+unsat
+(:max-memory   8.18
+ :memory       7.34
+ :mk-bool-var  1
+ :num-allocs   5662518
+ :rlimit-count 121636
+ :time         0.05
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all_e1_4022_e2_267
+unsat
+(:max-memory   8.14
+ :memory       7.29
+ :mk-bool-var  1
+ :num-allocs   5421682
+ :rlimit-count 111742
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all_e1_4022_e3_3628
+unsat
+(:max-memory   8.17
+ :memory       7.32
+ :mk-bool-var  1
+ :num-allocs   5489801
+ :rlimit-count 110020
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all_e1_4022_e7_2886
+sat
+(:max-memory   8.13
+ :memory       7.06
+ :mk-bool-var  1
+ :num-allocs   8678952
+ :rlimit-count 155201
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+DRAGON_all_e2_1514
+unsat
+(:max-memory   8.13
+ :memory       7.13
+ :mk-bool-var  1
+ :num-allocs   5549933
+ :rlimit-count 87795
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+DRAGON_all_e2_6104_e2_3308
+unsat
+(:max-memory   8.13
+ :memory       7.24
+ :mk-bool-var  1
+ :num-allocs   5450597
+ :rlimit-count 103378
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all_e2_6104_e3_2607
+unsat
+(:max-memory   8.29
+ :memory       7.44
+ :mk-bool-var  1
+ :num-allocs   5818288
+ :rlimit-count 126180
+ :time         0.05
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+DRAGON_all_e2_6104_e7_5856
+sat
+(:max-memory   8.13
+ :memory       7.25
+ :mk-bool-var  1
+ :num-allocs   11580065
+ :rlimit-count 211707
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.07
+sys 0.00
+####################################################
+DRAGON_all_e3_4821
+unsat
+(:max-memory   8.13
+ :memory       7.25
+ :mk-bool-var  1
+ :num-allocs   5672825
+ :rlimit-count 104117
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+DRAGON_all_e3_4821_e1_1318
+unsat
+(:max-memory   8.21
+ :memory       7.36
+ :mk-bool-var  1
+ :num-allocs   5612317
+ :rlimit-count 124767
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+DRAGON_all_e3_4821_e2_1089
+unsat
+(:max-memory   8.13
+ :memory       7.14
+ :mk-bool-var  1
+ :num-allocs   5220894
+ :rlimit-count 79891
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+DRAGON_all_e7_4065
+sat
+(:max-memory   8.13
+ :memory       7.25
+ :mk-bool-var  1
+ :num-allocs   13024731
+ :rlimit-count 200883
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+durationThm_1_e1_197
+sat
+(:max-memory   4.69
+ :memory       4.32
+ :mk-bool-var  1
+ :num-allocs   1207245
+ :rlimit-count 9153
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e1_197_e7_289
+sat
+(:max-memory   4.69
+ :memory       4.32
+ :mk-bool-var  1
+ :num-allocs   1216573
+ :rlimit-count 10289
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e2_305
+unsat
+(:max-memory   5.06
+ :memory       4.32
+ :mk-bool-var  1
+ :num-allocs   2039077
+ :rlimit-count 6987
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e2_3_e7_336
+unsat
+(:max-memory   5.13
+ :memory       4.40
+ :mk-bool-var  1
+ :num-allocs   2383429
+ :rlimit-count 12924
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e3_173
+unsat
+(:max-memory   5.06
+ :memory       4.33
+ :mk-bool-var  1
+ :num-allocs   2143715
+ :rlimit-count 7365
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e3_389_e5_5
+unsat
+(:max-memory   5.07
+ :memory       4.33
+ :mk-bool-var  1
+ :num-allocs   2144983
+ :rlimit-count 7365
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e3_389_e6_167
+./run.sh: line 25:  5674 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.02
+####################################################
+durationThm_1_e3_389_e7_358
+unsat
+(:max-memory   5.15
+ :memory       4.42
+ :mk-bool-var  1
+ :num-allocs   2507484
+ :rlimit-count 13732
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_1_e7_12
+sat
+(:max-memory   4.72
+ :memory       4.58
+ :mk-bool-var  1
+ :num-allocs   1751494
+ :rlimit-count 18567
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+durationThm_1_e7_217_e7_31
+sat
+(:max-memory   4.66
+ :memory       4.38
+ :mk-bool-var  1
+ :num-allocs   964903
+ :rlimit-count 9630
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+durationThm_2_e1_118
+./run.sh: line 25:  5764 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.99
+sys 0.00
+####################################################
+durationThm_2_e1_301_e7_64
+sat
+(:max-memory   4.68
+ :memory       4.40
+ :mk-bool-var  1
+ :num-allocs   781369
+ :rlimit-count 5789
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_2_e2_206
+unsat
+(:max-memory   5.13
+ :memory       4.40
+ :mk-bool-var  1
+ :num-allocs   1991103
+ :rlimit-count 7679
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+durationThm_2_e2_206_e7_33
+unsat
+(:max-memory   5.19
+ :memory       4.45
+ :mk-bool-var  1
+ :num-allocs   2321457
+ :rlimit-count 10960
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+durationThm_2_e3_329
+unsat
+(:max-memory   5.13
+ :memory       4.41
+ :mk-bool-var  1
+ :num-allocs   2004061
+ :rlimit-count 8063
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_2_e3_329_e5_124
+unsat
+(:max-memory   5.14
+ :memory       4.41
+ :mk-bool-var  1
+ :num-allocs   2025968
+ :rlimit-count 8063
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_2_e3_329_e6_128
+./run.sh: line 25:  5776 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.99
+sys 0.00
+####################################################
+durationThm_2_e3_329_e7_410
+unsat
+(:max-memory   5.39
+ :memory       4.55
+ :mk-bool-var  1
+ :num-allocs   2421802
+ :rlimit-count 12530
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+durationThm_2_e7_145
+sat
+(:max-memory   4.67
+ :memory       4.39
+ :mk-bool-var  1
+ :num-allocs   780794
+ :rlimit-count 5785
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+durationThm_2_e7_145_e7_154
+sat
+(:max-memory   4.68
+ :memory       4.41
+ :mk-bool-var  1
+ :num-allocs   805734
+ :rlimit-count 5921
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_3_e1_36
+sat
+(:max-memory   4.84
+ :memory       4.42
+ :mk-bool-var  1
+ :num-allocs   2420363
+ :rlimit-count 23787
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+durationThm_3_e1_36_e7_432
+sat
+(:max-memory   4.72
+ :memory       4.44
+ :mk-bool-var  1
+ :num-allocs   1454859
+ :rlimit-count 16172
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+durationThm_3_e2_148
+unsat
+(:max-memory   4.99
+ :memory       4.25
+ :mk-bool-var  1
+ :num-allocs   1442123
+ :rlimit-count 4211
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+durationThm_3_e2_63_e7_21
+unsat
+(:max-memory   5.16
+ :memory       4.43
+ :mk-bool-var  1
+ :num-allocs   2502846
+ :rlimit-count 14964
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+durationThm_3_e3_207
+unsat
+(:max-memory   5.00
+ :memory       4.26
+ :mk-bool-var  1
+ :num-allocs   1445997
+ :rlimit-count 4386
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_3_e3_442_e5_260
+unsat
+(:max-memory   5.00
+ :memory       4.27
+ :mk-bool-var  1
+ :num-allocs   1447029
+ :rlimit-count 4386
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+durationThm_3_e3_442_e6_113
+./run.sh: line 25:  5796 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.99
+sys 0.00
+####################################################
+durationThm_3_e3_442_e7_394
+unsat
+(:max-memory   5.16
+ :memory       4.42
+ :mk-bool-var  1
+ :num-allocs   2539527
+ :rlimit-count 15141
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+durationThm_3_e7_201
+sat
+(:max-memory   4.93
+ :memory       4.65
+ :mk-bool-var  1
+ :num-allocs   2662088
+ :rlimit-count 32449
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+durationThm_3_e7_334_e7_118
+sat
+(:max-memory   4.16
+ :memory       4.16
+ :mk-bool-var  1
+ :num-allocs   577191
+ :rlimit-count 3504
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+ex3_e7_590
+unsat
+(:max-memory   5.90
+ :memory       5.10
+ :mk-bool-var  1
+ :num-allocs   4759203
+ :rlimit-count 35390
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ex3_e7_590_e7_590
+unsat
+(:max-memory   5.92
+ :memory       5.12
+ :mk-bool-var  1
+ :num-allocs   4735705
+ :rlimit-count 35393
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ex3_e7_590_e8_550
+unsat
+(:max-memory   5.89
+ :memory       5.16
+ :mk-bool-var  1
+ :num-allocs   4708012
+ :rlimit-count 37945
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+ex3_e8_120
+unsat
+(:max-memory   5.88
+ :memory       5.14
+ :mk-bool-var  1
+ :num-allocs   2700778
+ :rlimit-count 30104
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+ex3_e8_381_e7_224
+unsat
+(:max-memory   5.79
+ :memory       5.06
+ :mk-bool-var  1
+ :num-allocs   4299854
+ :rlimit-count 32641
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+ex3_e8_381_e8_477
+unsat
+(:max-memory   5.97
+ :memory       5.16
+ :mk-bool-var  1
+ :num-allocs   2918832
+ :rlimit-count 30664
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+ex8_e7_55
+sat
+(:max-memory   4.72
+ :memory       4.66
+ :mk-bool-var  1
+ :num-allocs   1079904
+ :rlimit-count 11892
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+ex8_e7_74_e7_740
+sat
+(:max-memory   4.72
+ :memory       4.65
+ :mk-bool-var  1
+ :num-allocs   1071775
+ :rlimit-count 11990
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ex8_e7_74_e8_302
+sat
+(:max-memory   4.72
+ :memory       4.65
+ :mk-bool-var  1
+ :num-allocs   1080150
+ :rlimit-count 11670
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+ex8_e8_220
+sat
+(:max-memory   4.73
+ :memory       4.56
+ :mk-bool-var  1
+ :num-allocs   1048659
+ :rlimit-count 11124
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+ex8_e8_220_e7_249
+sat
+(:max-memory   4.72
+ :memory       4.66
+ :mk-bool-var  1
+ :num-allocs   1103061
+ :rlimit-count 11203
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_1_e7_1035
+sat
+(:max-memory   5.21
+ :memory       5.16
+ :mk-bool-var  1
+ :num-allocs   1510508
+ :rlimit-count 17274
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_1_e7_2044_e7_1287
+sat
+(:max-memory   5.22
+ :memory       5.17
+ :mk-bool-var  1
+ :num-allocs   1511657
+ :rlimit-count 17388
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_1_e7_2044_e8_1396
+unsat
+(:max-memory   5.46
+ :memory       4.74
+ :mk-bool-var  1
+ :num-allocs   2039764
+ :rlimit-count 9654
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_1_e8_747
+unsat
+(:max-memory   5.46
+ :memory       4.73
+ :mk-bool-var  1
+ :num-allocs   2054871
+ :rlimit-count 9472
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_1_e8_747_e7_692
+sat
+(:max-memory   5.10
+ :memory       4.72
+ :mk-bool-var  1
+ :num-allocs   1606402
+ :rlimit-count 13091
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_1_e8_747_e8_1041
+unsat
+(:max-memory   5.46
+ :memory       4.73
+ :mk-bool-var  1
+ :num-allocs   2054898
+ :rlimit-count 9482
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+fast_2_e7_1871
+sat
+(:max-memory   5.58
+ :memory       5.58
+ :mk-bool-var  1
+ :num-allocs   1940444
+ :rlimit-count 23685
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.00
+sys 0.01
+####################################################
+fast_2_e7_2526_e7_2736
+sat
+(:max-memory   5.59
+ :memory       5.59
+ :mk-bool-var  1
+ :num-allocs   1942968
+ :rlimit-count 23915
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+fast_2_e7_2526_e8_1145
+unsat
+(:max-memory   7.38
+ :memory       6.44
+ :mk-bool-var  1
+ :num-allocs   7926650
+ :rlimit-count 151037
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+fast_2_e8_460
+unsat
+(:max-memory   6.09
+ :memory       5.36
+ :mk-bool-var  1
+ :num-allocs   8074936
+ :rlimit-count 50012
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+fast_2_e8_460_e7_43
+sat
+(:max-memory   5.41
+ :memory       5.20
+ :mk-bool-var  1
+ :num-allocs   3310801
+ :rlimit-count 27936
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+fast_2_e8_460_e8_1920
+unsat
+(:max-memory   6.07
+ :memory       5.34
+ :mk-bool-var  1
+ :num-allocs   5500605
+ :rlimit-count 32832
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_10
+unsat
+(:max-memory   6.15
+ :memory       5.41
+ :mk-bool-var  1
+ :num-allocs   2995205
+ :rlimit-count 20786
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_10_e7_919_e2_3192
+unsat
+(:max-memory   6.38
+ :memory       5.64
+ :mk-bool-var  1
+ :num-allocs   4390999
+ :rlimit-count 30037
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_11
+unsat
+(:max-memory   7.95
+ :memory       7.05
+ :mk-bool-var  1
+ :num-allocs   54000176
+ :rlimit-count 592508
+ :time         0.23
+ :total-time   0.23)
+real 0.23
+user 0.22
+sys 0.01
+####################################################
+FIREFLY_11_e1_3457
+unsat
+(:max-memory   7.86
+ :memory       6.97
+ :mk-bool-var  1
+ :num-allocs   51403895
+ :rlimit-count 573268
+ :time         0.23
+ :total-time   0.23)
+real 0.23
+user 0.23
+sys 0.00
+####################################################
+FIREFLY_11_e3_2076_e1_1270
+unsat
+(:max-memory   8.08
+ :memory       7.18
+ :mk-bool-var  1
+ :num-allocs   74167666
+ :rlimit-count 768525
+ :time         0.30
+ :total-time   0.31)
+real 0.31
+user 0.30
+sys 0.00
+####################################################
+FIREFLY_1_e1_1092
+sat
+(:max-memory   7.43
+ :memory       6.84
+ :mk-bool-var  1
+ :num-allocs   23253160
+ :rlimit-count 349590
+ :time         0.11
+ :total-time   0.11)
+real 0.11
+user 0.11
+sys 0.00
+####################################################
+FIREFLY_1_e1_1092_e1_1486
+sat
+(:max-memory   7.54
+ :memory       6.94
+ :mk-bool-var  1
+ :num-allocs   34097507
+ :rlimit-count 475097
+ :time         0.14
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.01
+####################################################
+FIREFLY_1_e1_1092_e2_1853
+unsat
+(:max-memory   6.75
+ :memory       6.01
+ :mk-bool-var  1
+ :num-allocs   3794102
+ :rlimit-count 61482
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_1_e1_1092_e3_389
+sat
+(:max-memory   8.07
+ :memory       7.11
+ :mk-bool-var  1
+ :num-allocs   21674889
+ :rlimit-count 299282
+ :time         0.10
+ :total-time   0.11)
+real 0.11
+user 0.10
+sys 0.00
+####################################################
+FIREFLY_1_e1_1092_e7_1119
+sat
+(:max-memory   6.23
+ :memory       5.85
+ :mk-bool-var  1
+ :num-allocs   4092239
+ :rlimit-count 71823
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+FIREFLY_2_e1_3099
+sat
+(:max-memory   7.75
+ :memory       7.12
+ :mk-bool-var  1
+ :num-allocs   24288249
+ :rlimit-count 416583
+ :time         0.12
+ :total-time   0.12)
+real 0.12
+user 0.12
+sys 0.00
+####################################################
+FIREFLY_2_e1_3099_e1_3277
+sat
+(:max-memory   7.62
+ :memory       7.03
+ :mk-bool-var  1
+ :num-allocs   22321790
+ :rlimit-count 361095
+ :time         0.11
+ :total-time   0.11)
+real 0.12
+user 0.11
+sys 0.00
+####################################################
+FIREFLY_2_e1_3099_e2_846
+unsat
+(:max-memory   6.68
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   3632266
+ :rlimit-count 54872
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_2_e1_3099_e3_2660
+sat
+(:max-memory   7.67
+ :memory       7.09
+ :mk-bool-var  1
+ :num-allocs   29103742
+ :rlimit-count 444150
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+FIREFLY_2_e1_3099_e7_1817
+sat
+(:max-memory   6.54
+ :memory       6.04
+ :mk-bool-var  1
+ :num-allocs   7665017
+ :rlimit-count 121654
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+FIREFLY_2_e2_3244_e3_1305
+sat
+(:max-memory   7.16
+ :memory       6.83
+ :mk-bool-var  1
+ :num-allocs   15231569
+ :rlimit-count 218368
+ :time         0.08
+ :total-time   0.08)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+FIREFLY_2_e3_151_e3_1540
+sat
+(:max-memory   7.98
+ :memory       7.44
+ :mk-bool-var  1
+ :num-allocs   53570450
+ :rlimit-count 757278
+ :time         0.20
+ :total-time   0.20)
+real 0.20
+user 0.20
+sys 0.00
+####################################################
+FIREFLY_2_e7_1776_e2_3202
+sat
+(:max-memory   6.54
+ :memory       6.04
+ :mk-bool-var  1
+ :num-allocs   7617693
+ :rlimit-count 121572
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+FIREFLY_3_e2_2236
+unsat
+(:max-memory   6.18
+ :memory       5.44
+ :mk-bool-var  1
+ :num-allocs   2978005
+ :rlimit-count 20826
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_3_e2_2236_e1_2305
+unsat
+(:max-memory   6.18
+ :memory       5.44
+ :mk-bool-var  1
+ :num-allocs   3013718
+ :rlimit-count 20826
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_3_e2_2236_e2_1058
+unsat
+(:max-memory   6.18
+ :memory       5.44
+ :mk-bool-var  1
+ :num-allocs   3013797
+ :rlimit-count 20834
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_3_e2_2236_e3_2657
+sat
+(:max-memory   6.68
+ :memory       6.13
+ :mk-bool-var  1
+ :num-allocs   19381086
+ :rlimit-count 246897
+ :time         0.10
+ :total-time   0.11)
+real 0.11
+user 0.10
+sys 0.00
+####################################################
+FIREFLY_3_e2_2236_e7_3681
+unsat
+(:max-memory   6.47
+ :memory       5.73
+ :mk-bool-var  1
+ :num-allocs   4626060
+ :rlimit-count 33841
+ :time         0.02
+ :total-time   0.02)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_4_e3_1713
+unsat
+(:max-memory   8.32
+ :memory       7.35
+ :mk-bool-var  1
+ :num-allocs   98838934
+ :rlimit-count 1127050
+ :time         0.31
+ :total-time   0.32)
+real 0.32
+user 0.32
+sys 0.00
+####################################################
+FIREFLY_4_e3_3511_e1_2375
+sat
+(:max-memory   8.04
+ :memory       7.45
+ :mk-bool-var  1
+ :num-allocs   86751714
+ :rlimit-count 999607
+ :time         0.29
+ :total-time   0.29)
+real 0.30
+user 0.29
+sys 0.00
+####################################################
+FIREFLY_4_e3_3511_e2_1923
+unsat
+(:max-memory   8.38
+ :memory       7.47
+ :mk-bool-var  1
+ :num-allocs   78891038
+ :rlimit-count 992217
+ :time         0.27
+ :total-time   0.27)
+real 0.28
+user 0.27
+sys 0.00
+####################################################
+FIREFLY_4_e3_3511_e3_422
+unsat
+(:max-memory   8.37
+ :memory       7.45
+ :mk-bool-var  1
+ :num-allocs   74687975
+ :rlimit-count 964749
+ :time         0.25
+ :total-time   0.25)
+real 0.25
+user 0.25
+sys 0.00
+####################################################
+FIREFLY_4_e3_3511_e6_1826
+unsat
+(:max-memory   6.45
+ :memory       5.71
+ :mk-bool-var  1
+ :num-allocs   3348576
+ :rlimit-count 40247
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_4_e3_3511_e7_3568
+sat
+(:max-memory   6.18
+ :memory       5.81
+ :mk-bool-var  1
+ :num-allocs   4581157
+ :rlimit-count 77567
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_5_e1_2552_e7_1169
+unsat
+(:max-memory   6.40
+ :memory       5.67
+ :mk-bool-var  1
+ :num-allocs   5334481
+ :rlimit-count 41584
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_5_e2_2229
+unsat
+(:max-memory   6.10
+ :memory       5.36
+ :mk-bool-var  1
+ :num-allocs   2997698
+ :rlimit-count 19673
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_5_e2_2884_e1_2678
+unsat
+(:max-memory   6.10
+ :memory       5.36
+ :mk-bool-var  1
+ :num-allocs   2997426
+ :rlimit-count 19673
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_5_e2_2884_e2_1492
+unsat
+(:max-memory   6.10
+ :memory       5.36
+ :mk-bool-var  1
+ :num-allocs   3035318
+ :rlimit-count 19673
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_5_e2_2884_e3_1882
+unsat
+(:max-memory   6.10
+ :memory       5.36
+ :mk-bool-var  1
+ :num-allocs   3035884
+ :rlimit-count 19673
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_5_e2_2884_e7_3594
+unsat
+(:max-memory   6.40
+ :memory       5.67
+ :mk-bool-var  1
+ :num-allocs   5334333
+ :rlimit-count 41583
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_6_e2_3302
+unsat
+(:max-memory   11.09
+ :memory       9.95
+ :mk-bool-var  1
+ :num-allocs   806401962
+ :rlimit-count 3355631
+ :time         1.30
+ :total-time   1.31)
+real 1.31
+user 1.29
+sys 0.01
+####################################################
+FIREFLY_6_e3_686_e6_2964
+unsat
+(:max-memory   10.36
+ :memory       9.30
+ :mk-bool-var  1
+ :num-allocs   532656167
+ :rlimit-count 2541955
+ :time         1.01
+ :total-time   1.02)
+real 1.02
+user 1.01
+sys 0.00
+####################################################
+FIREFLY_7
+./run.sh: line 25:  5924 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.97
+sys 0.02
+####################################################
+FIREFLY_8_e2_1692
+unsat
+(:max-memory   6.21
+ :memory       5.48
+ :mk-bool-var  1
+ :num-allocs   3081999
+ :rlimit-count 21557
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_8_e2_1711_e1_1489
+unsat
+(:max-memory   6.21
+ :memory       5.48
+ :mk-bool-var  1
+ :num-allocs   3077553
+ :rlimit-count 21561
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_8_e2_1711_e2_2673
+unsat
+(:max-memory   6.21
+ :memory       5.48
+ :mk-bool-var  1
+ :num-allocs   3081689
+ :rlimit-count 21563
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_8_e2_1711_e3_1753
+unsat
+(:max-memory   6.21
+ :memory       5.48
+ :mk-bool-var  1
+ :num-allocs   3081923
+ :rlimit-count 21561
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+FIREFLY_8_e2_1711_e7_1962
+sat
+(:max-memory   6.19
+ :memory       5.72
+ :mk-bool-var  1
+ :num-allocs   2666822
+ :rlimit-count 40028
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_9
+unsat
+(:max-memory   6.22
+ :memory       5.49
+ :mk-bool-var  1
+ :num-allocs   3032788
+ :rlimit-count 21834
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_9_e7_170_e3_3647
+unsat
+(:max-memory   6.59
+ :memory       5.85
+ :mk-bool-var  1
+ :num-allocs   5680668
+ :rlimit-count 48452
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_a3_e1_195
+sat
+(:max-memory   6.92
+ :memory       6.48
+ :mk-bool-var  1
+ :num-allocs   8838427
+ :rlimit-count 169305
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+FIREFLY_a3_e1_3233_e1_3123
+sat
+(:max-memory   7.35
+ :memory       6.87
+ :mk-bool-var  1
+ :num-allocs   16716136
+ :rlimit-count 265586
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.10
+sys 0.00
+####################################################
+FIREFLY_a3_e1_3233_e2_2392
+unsat
+(:max-memory   6.67
+ :memory       5.93
+ :mk-bool-var  1
+ :num-allocs   3662168
+ :rlimit-count 51674
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_a3_e1_3233_e3_2970
+unsat
+(:max-memory   6.67
+ :memory       5.93
+ :mk-bool-var  1
+ :num-allocs   3662214
+ :rlimit-count 52254
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_a3_e1_3233_e7_906
+sat
+(:max-memory   6.35
+ :memory       5.78
+ :mk-bool-var  1
+ :num-allocs   4447191
+ :rlimit-count 73471
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+FIREFLY_a3_e2_2086_e2_2689
+unsat
+(:max-memory   6.67
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   3662754
+ :rlimit-count 52428
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_a3_e2_2086_e3_2542
+unsat
+(:max-memory   6.68
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   3662556
+ :rlimit-count 51530
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_a3_e2_2086_e7_2614
+sat
+(:max-memory   6.35
+ :memory       5.78
+ :mk-bool-var  1
+ :num-allocs   4446083
+ :rlimit-count 73498
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_a3_e3_314_e1_1979
+sat
+(:max-memory   7.95
+ :memory       7.37
+ :mk-bool-var  1
+ :num-allocs   56820724
+ :rlimit-count 832985
+ :time         0.24
+ :total-time   0.25)
+real 0.25
+user 0.25
+sys 0.00
+####################################################
+FIREFLY_a3_e3_314_e2_2812
+unsat
+(:max-memory   6.67
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   3662758
+ :rlimit-count 52721
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_all_e1_1207
+sat
+(:max-memory   7.84
+ :memory       7.36
+ :mk-bool-var  1
+ :num-allocs   25033640
+ :rlimit-count 488782
+ :time         0.13
+ :total-time   0.13)
+real 0.13
+user 0.12
+sys 0.01
+####################################################
+FIREFLY_all_e1_1207_e1_1201
+sat
+(:max-memory   7.84
+ :memory       7.27
+ :mk-bool-var  1
+ :num-allocs   19262255
+ :rlimit-count 368797
+ :time         0.11
+ :total-time   0.11)
+real 0.11
+user 0.11
+sys 0.00
+####################################################
+FIREFLY_all_e1_1207_e2_3220
+unsat
+(:max-memory   6.93
+ :memory       6.20
+ :mk-bool-var  1
+ :num-allocs   3896634
+ :rlimit-count 74712
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+FIREFLY_all_e1_1207_e3_1928
+sat
+(:max-memory   7.91
+ :memory       7.26
+ :mk-bool-var  1
+ :num-allocs   34428216
+ :rlimit-count 466562
+ :time         0.14
+ :total-time   0.14)
+real 0.15
+user 0.14
+sys 0.00
+####################################################
+FIREFLY_all_e1_1207_e7_156
+sat
+(:max-memory   6.57
+ :memory       6.09
+ :mk-bool-var  1
+ :num-allocs   6621831
+ :rlimit-count 113810
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+FIREFLY_all_e2_2924_e2_1767
+sat
+(:max-memory   7.80
+ :memory       7.21
+ :mk-bool-var  1
+ :num-allocs   27410196
+ :rlimit-count 443274
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+FIREFLY_all_e2_2924_e3_3946
+sat
+(:max-memory   7.74
+ :memory       7.26
+ :mk-bool-var  1
+ :num-allocs   27013938
+ :rlimit-count 436820
+ :time         0.12
+ :total-time   0.13)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+FIREFLY_all_e2_2924_e7_3371
+sat
+(:max-memory   6.41
+ :memory       6.03
+ :mk-bool-var  1
+ :num-allocs   3761558
+ :rlimit-count 81004
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_all_e3_1600
+sat
+(:max-memory   7.82
+ :memory       7.19
+ :mk-bool-var  1
+ :num-allocs   25345241
+ :rlimit-count 550449
+ :time         0.14
+ :total-time   0.15)
+real 0.15
+user 0.15
+sys 0.00
+####################################################
+FIREFLY_all_e3_1600_e1_667
+sat
+(:max-memory   7.71
+ :memory       7.13
+ :mk-bool-var  1
+ :num-allocs   24727749
+ :rlimit-count 444863
+ :time         0.12
+ :total-time   0.12)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+FIREFLY_all_e3_1600_e2_676
+sat
+(:max-memory   7.56
+ :memory       7.00
+ :mk-bool-var  1
+ :num-allocs   15999756
+ :rlimit-count 296983
+ :time         0.09
+ :total-time   0.09)
+real 0.09
+user 0.08
+sys 0.00
+####################################################
+FIREFLY_all_e3_1600_e3_2055
+sat
+(:max-memory   7.69
+ :memory       7.18
+ :mk-bool-var  1
+ :num-allocs   23032961
+ :rlimit-count 414767
+ :time         0.12
+ :total-time   0.13)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+FIREFLY_all_e3_1600_e7_1607
+sat
+(:max-memory   6.29
+ :memory       5.89
+ :mk-bool-var  1
+ :num-allocs   3636784
+ :rlimit-count 65194
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_all_e7_1909
+sat
+(:max-memory   6.57
+ :memory       6.09
+ :mk-bool-var  1
+ :num-allocs   6619574
+ :rlimit-count 113810
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+FIREFLY_luke_1a_e2_284
+unsat
+(:max-memory   7.89
+ :memory       6.99
+ :mk-bool-var  1
+ :num-allocs   61360816
+ :rlimit-count 665891
+ :time         0.27
+ :total-time   0.27)
+real 0.27
+user 0.27
+sys 0.00
+####################################################
+FIREFLY_luke_1a_e2_284_e1_2924
+unsat
+(:max-memory   7.81
+ :memory       6.91
+ :mk-bool-var  1
+ :num-allocs   50045303
+ :rlimit-count 586103
+ :time         0.22
+ :total-time   0.22)
+real 0.22
+user 0.22
+sys 0.00
+####################################################
+FIREFLY_luke_1a_e2_284_e2_2755
+unsat
+(:max-memory   7.94
+ :memory       7.03
+ :mk-bool-var  1
+ :num-allocs   59308438
+ :rlimit-count 638613
+ :time         0.27
+ :total-time   0.27)
+real 0.28
+user 0.28
+sys 0.00
+####################################################
+FIREFLY_luke_1a_e2_284_e3_3091
+unsat
+(:max-memory   8.53
+ :memory       7.49
+ :mk-bool-var  1
+ :num-allocs   155493737
+ :rlimit-count 1299073
+ :time         0.50
+ :total-time   0.50)
+real 0.50
+user 0.49
+sys 0.00
+####################################################
+FIREFLY_luke_1a_e2_284_e7_998
+sat
+(:max-memory   7.78
+ :memory       7.12
+ :mk-bool-var  1
+ :num-allocs   82207497
+ :rlimit-count 746616
+ :time         0.27
+ :total-time   0.28)
+real 0.28
+user 0.27
+sys 0.00
+####################################################
+FIREFLY_luke_1a_e7_3042_e3_1213
+unsat
+(:max-memory   8.09
+ :memory       7.18
+ :mk-bool-var  1
+ :num-allocs   74648359
+ :rlimit-count 729320
+ :time         0.27
+ :total-time   0.28)
+real 0.28
+user 0.28
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e1_1139
+sat
+(:max-memory   7.58
+ :memory       7.11
+ :mk-bool-var  1
+ :num-allocs   33555499
+ :rlimit-count 525882
+ :time         0.15
+ :total-time   0.15)
+real 0.15
+user 0.15
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e1_1139_e1_1565
+sat
+(:max-memory   7.67
+ :memory       7.10
+ :mk-bool-var  1
+ :num-allocs   34092975
+ :rlimit-count 579592
+ :time         0.16
+ :total-time   0.16)
+real 0.17
+user 0.16
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e1_1139_e2_2893
+unsat
+(:max-memory   6.75
+ :memory       6.01
+ :mk-bool-var  1
+ :num-allocs   3890318
+ :rlimit-count 61345
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e1_1139_e3_1839
+sat
+(:max-memory   8.07
+ :memory       7.09
+ :mk-bool-var  1
+ :num-allocs   23754629
+ :rlimit-count 292016
+ :time         0.10
+ :total-time   0.11)
+real 0.11
+user 0.10
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e1_1139_e7_616
+sat
+(:max-memory   6.23
+ :memory       5.85
+ :mk-bool-var  1
+ :num-allocs   4061049
+ :rlimit-count 71992
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e2_3049_e2_698
+sat
+(:max-memory   8.43
+ :memory       7.27
+ :mk-bool-var  1
+ :num-allocs   27605198
+ :rlimit-count 356139
+ :time         0.12
+ :total-time   0.12)
+real 0.13
+user 0.12
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e2_3049_e3_2697
+sat
+(:max-memory   8.32
+ :memory       7.28
+ :mk-bool-var  1
+ :num-allocs   51072483
+ :rlimit-count 565441
+ :time         0.18
+ :total-time   0.18)
+real 0.19
+user 0.18
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e2_3049_e7_1173
+sat
+(:max-memory   6.16
+ :memory       5.88
+ :mk-bool-var  1
+ :num-allocs   3964145
+ :rlimit-count 72366
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e3_144
+sat
+(:max-memory   7.48
+ :memory       6.89
+ :mk-bool-var  1
+ :num-allocs   21398698
+ :rlimit-count 325283
+ :time         0.11
+ :total-time   0.11)
+real 0.11
+user 0.11
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e3_671_e1_725
+sat
+(:max-memory   7.74
+ :memory       7.15
+ :mk-bool-var  1
+ :num-allocs   40231912
+ :rlimit-count 705315
+ :time         0.17
+ :total-time   0.17)
+real 0.17
+user 0.17
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e3_671_e2_2131
+sat
+(:max-memory   7.05
+ :memory       6.82
+ :mk-bool-var  1
+ :num-allocs   21026602
+ :rlimit-count 326570
+ :time         0.10
+ :total-time   0.11)
+real 0.10
+user 0.10
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e3_671_e3_941
+sat
+(:max-memory   7.53
+ :memory       7.06
+ :mk-bool-var  1
+ :num-allocs   22918660
+ :rlimit-count 470208
+ :time         0.13
+ :total-time   0.13)
+real 0.13
+user 0.13
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e3_671_e7_1882
+sat
+(:max-memory   6.12
+ :memory       5.70
+ :mk-bool-var  1
+ :num-allocs   3493066
+ :rlimit-count 64545
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+FIREFLY_luke_1b_e7_2574
+sat
+(:max-memory   6.31
+ :memory       5.95
+ :mk-bool-var  1
+ :num-allocs   4198463
+ :rlimit-count 82703
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+FIREFLY_luke_1b_e7_3191_e7_2146
+sat
+(:max-memory   6.09
+ :memory       5.76
+ :mk-bool-var  1
+ :num-allocs   3353683
+ :rlimit-count 57273
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+FIREFLY_luke_2_e2_1375_e1_418
+unsat
+(:max-memory   11.09
+ :memory       9.95
+ :mk-bool-var  1
+ :num-allocs   1068208129
+ :rlimit-count 3881687
+ :time         1.53
+ :total-time   1.54)
+real 1.54
+user 1.54
+sys 0.00
+####################################################
+FIREFLY_luke_3
+unsat
+(:max-memory   16.78
+ :memory       15.29
+ :mk-bool-var  1
+ :num-allocs   6160558940.00
+ :rlimit-count 9190882
+ :time         3.72
+ :total-time   3.73)
+real 3.74
+user 3.74
+sys 0.00
+####################################################
+FIREFLY_luke_3_e1_2217_e3_1200
+./run.sh: line 25:  6036 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.97
+sys 0.02
+####################################################
+FIREFLY_luke_5
+unsat
+(:max-memory   9.48
+ :memory       8.45
+ :mk-bool-var  1
+ :num-allocs   171032692
+ :rlimit-count 1386261
+ :time         0.38
+ :total-time   0.38)
+real 0.38
+user 0.37
+sys 0.00
+####################################################
+FIREFLY_luke_rt_e2_3460_e2_2670
+sat
+(:max-memory   7.78
+ :memory       7.17
+ :mk-bool-var  1
+ :num-allocs   48735473
+ :rlimit-count 585137
+ :time         0.18
+ :total-time   0.19)
+real 0.19
+user 0.19
+sys 0.00
+####################################################
+FIREFLY_luke_rt_e3_1549
+sat
+(:max-memory   7.73
+ :memory       7.06
+ :mk-bool-var  1
+ :num-allocs   28334380
+ :rlimit-count 423120
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+FIREFLY_rt_e3_1770_e2_637
+unsat
+(:max-memory   10.38
+ :memory       9.30
+ :mk-bool-var  1
+ :num-allocs   429914574
+ :rlimit-count 2099504
+ :time         0.87
+ :total-time   0.87)
+real 0.87
+user 0.86
+sys 0.01
+####################################################
+FIREFLY_rt_e7_346_e8_2183
+unsat
+(:max-memory   10.44
+ :memory       9.37
+ :mk-bool-var  1
+ :num-allocs   645638146
+ :rlimit-count 2643230
+ :time         1.08
+ :total-time   1.08)
+real 1.08
+user 1.07
+sys 0.00
+####################################################
+FIREFLY_u1
+unsat
+(:max-memory   8.67
+ :memory       7.65
+ :mk-bool-var  1
+ :num-allocs   206623303
+ :rlimit-count 1298603
+ :time         0.53
+ :total-time   0.54)
+real 0.54
+user 0.53
+sys 0.00
+####################################################
+FIREFLY_u1_e2_3403_e2_957
+unsat
+(:max-memory   10.79
+ :memory       9.63
+ :mk-bool-var  1
+ :num-allocs   640824667
+ :rlimit-count 2606117
+ :time         1.10
+ :total-time   1.10)
+real 1.11
+user 1.10
+sys 0.00
+####################################################
+FIREFLY_u1_e7_3318
+sat
+(:max-memory   6.67
+ :memory       6.12
+ :mk-bool-var  1
+ :num-allocs   16509050
+ :rlimit-count 216695
+ :time         0.09
+ :total-time   0.09)
+real 0.09
+user 0.09
+sys 0.00
+####################################################
+Gas_e7_435_e8_532
+./run.sh: line 25:  6054 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.96
+sys 0.03
+####################################################
+hysteresis_1
+unsat
+(:max-memory   5.06
+ :memory       4.32
+ :mk-bool-var  1
+ :num-allocs   1513907
+ :rlimit-count 5499
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+hysteresis_2
+unsat
+(:max-memory   6.04
+ :memory       5.24
+ :mk-bool-var  1
+ :num-allocs   6963341
+ :rlimit-count 54827
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+hysteresis_3
+unsat
+(:max-memory   6.00
+ :memory       5.19
+ :mk-bool-var  1
+ :num-allocs   6354874
+ :rlimit-count 46277
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+hysteresis_all
+unsat
+(:max-memory   6.13
+ :memory       5.31
+ :mk-bool-var  1
+ :num-allocs   7799276
+ :rlimit-count 58018
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_1
+unsat
+(:max-memory   6.26
+ :memory       5.43
+ :mk-bool-var  1
+ :num-allocs   3235519
+ :rlimit-count 22699
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ILLINOIS_2_e1_3758
+sat
+(:max-memory   6.38
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   6236161
+ :rlimit-count 85869
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ILLINOIS_2_e1_834_e1_1895
+sat
+(:max-memory   6.39
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   6237822
+ :rlimit-count 85877
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ILLINOIS_2_e1_834_e2_3395
+unsat
+(:max-memory   6.66
+ :memory       5.83
+ :mk-bool-var  1
+ :num-allocs   3927500
+ :rlimit-count 53891
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+ILLINOIS_2_e1_834_e3_2931
+sat
+(:max-memory   6.39
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   5351142
+ :rlimit-count 79203
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_2_e1_834_e7_3738
+sat
+(:max-memory   6.26
+ :memory       5.86
+ :mk-bool-var  1
+ :num-allocs   4093031
+ :rlimit-count 72312
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_2_e2_2367
+sat
+(:max-memory   6.26
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   4253889
+ :rlimit-count 68408
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_2_e2_2367_e2_1561
+sat
+(:max-memory   6.26
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   4254495
+ :rlimit-count 68208
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_2_e2_2367_e3_1601
+sat
+(:max-memory   6.45
+ :memory       5.87
+ :mk-bool-var  1
+ :num-allocs   7174678
+ :rlimit-count 94334
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ILLINOIS_2_e2_2367_e7_2728
+sat
+(:max-memory   6.41
+ :memory       5.87
+ :mk-bool-var  1
+ :num-allocs   4366697
+ :rlimit-count 70419
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+ILLINOIS_3_e3_2581
+sat
+(:max-memory   6.49
+ :memory       6.07
+ :mk-bool-var  1
+ :num-allocs   6863562
+ :rlimit-count 120734
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+ILLINOIS_3_e3_2581_e1_1130
+sat
+(:max-memory   6.26
+ :memory       5.44
+ :mk-bool-var  1
+ :num-allocs   1686092
+ :rlimit-count 22818
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ILLINOIS_3_e3_2581_e2_2545
+sat
+(:max-memory   6.26
+ :memory       5.54
+ :mk-bool-var  1
+ :num-allocs   1727800
+ :rlimit-count 27249
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+ILLINOIS_3_e3_2581_e3_979
+sat
+(:max-memory   6.69
+ :memory       6.18
+ :mk-bool-var  1
+ :num-allocs   6247957
+ :rlimit-count 116980
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+ILLINOIS_3_e3_2581_e6_2476
+unsat
+(:max-memory   6.77
+ :memory       5.94
+ :mk-bool-var  1
+ :num-allocs   3959312
+ :rlimit-count 62955
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_3_e3_2581_e7_3447
+sat
+(:max-memory   6.31
+ :memory       6.13
+ :mk-bool-var  1
+ :num-allocs   4168529
+ :rlimit-count 92113
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_4
+unsat
+(:max-memory   6.24
+ :memory       5.37
+ :mk-bool-var  1
+ :num-allocs   3283206
+ :rlimit-count 22505
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+ILLINOIS_4_e7_2651_e7_2847
+unsat
+(:max-memory   6.80
+ :memory       6.07
+ :mk-bool-var  1
+ :num-allocs   8239796
+ :rlimit-count 92148
+ :time         0.05
+ :total-time   0.05)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+ILLINOIS_5
+unsat
+(:max-memory   6.24
+ :memory       5.38
+ :mk-bool-var  1
+ :num-allocs   3269564
+ :rlimit-count 22167
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.00
+sys 0.01
+####################################################
+ILLINOIS_5_e7_692_e7_2865
+unsat
+(:max-memory   6.55
+ :memory       5.72
+ :mk-bool-var  1
+ :num-allocs   4970049
+ :rlimit-count 36229
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ILLINOIS_a1
+unsat
+(:max-memory   8.87
+ :memory       7.86
+ :mk-bool-var  1
+ :num-allocs   153424549
+ :rlimit-count 1100404
+ :time         0.45
+ :total-time   0.45)
+real 0.45
+user 0.45
+sys 0.00
+####################################################
+ILLINOIS_all_e3_2354_e6_993
+unsat
+(:max-memory   7.52
+ :memory       6.69
+ :mk-bool-var  1
+ :num-allocs   4683620
+ :rlimit-count 98808
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ILLINOIS_r4a
+unsat
+(:max-memory   24.32
+ :memory       20.57
+ :mk-bool-var  1
+ :num-allocs   10141881608.00
+ :rlimit-count 14589984
+ :time         5.23
+ :total-time   5.24)
+real 5.25
+user 5.23
+sys 0.01
+####################################################
+MESI_1
+unsat
+(:max-memory   5.63
+ :memory       4.90
+ :mk-bool-var  1
+ :num-allocs   2443347
+ :rlimit-count 14532
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MESI_1_e2_162_e7_1545
+unsat
+(:max-memory   5.86
+ :memory       5.12
+ :mk-bool-var  1
+ :num-allocs   3765845
+ :rlimit-count 23400
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_2
+unsat
+(:max-memory   5.65
+ :memory       4.91
+ :mk-bool-var  1
+ :num-allocs   2460482
+ :rlimit-count 14311
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+MESI_3_e1_2517_e8_2163
+unsat
+(:max-memory   7.65
+ :memory       6.91
+ :mk-bool-var  1
+ :num-allocs   4543919
+ :rlimit-count 344387
+ :time         0.05
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+MESI_3_e2_1872
+sat
+(:max-memory   6.31
+ :memory       6.04
+ :mk-bool-var  1
+ :num-allocs   3821039
+ :rlimit-count 175050
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+MESI_3_e2_819_e1_1145
+unsat
+(:max-memory   7.10
+ :memory       6.36
+ :mk-bool-var  1
+ :num-allocs   4155259
+ :rlimit-count 277750
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+MESI_3_e2_819_e2_562
+sat
+(:max-memory   6.16
+ :memory       5.88
+ :mk-bool-var  1
+ :num-allocs   3171238
+ :rlimit-count 103065
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+MESI_3_e2_819_e3_2698
+sat
+(:max-memory   6.01
+ :memory       5.63
+ :mk-bool-var  1
+ :num-allocs   2693166
+ :rlimit-count 62202
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_3_e2_819_e6_1459
+unsat
+(:max-memory   7.17
+ :memory       6.43
+ :mk-bool-var  1
+ :num-allocs   4269206
+ :rlimit-count 289872
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+MESI_3_e2_819_e7_1665
+sat
+(:max-memory   6.18
+ :memory       5.90
+ :mk-bool-var  1
+ :num-allocs   5375692
+ :rlimit-count 120291
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+MESI_3_e2_819_e8_1896
+sat
+(:max-memory   6.20
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3550044
+ :rlimit-count 113743
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+MESI_3_e3_2584
+unsat
+(:max-memory   6.92
+ :memory       6.19
+ :mk-bool-var  1
+ :num-allocs   3888976
+ :rlimit-count 244778
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+MESI_4
+unsat
+(:max-memory   5.70
+ :memory       4.97
+ :mk-bool-var  1
+ :num-allocs   2506790
+ :rlimit-count 15271
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.01
+####################################################
+MESI_4_e7_1140_e7_433
+unsat
+(:max-memory   5.81
+ :memory       5.08
+ :mk-bool-var  1
+ :num-allocs   3689225
+ :rlimit-count 23515
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_all
+unsat
+(:max-memory   5.82
+ :memory       5.08
+ :mk-bool-var  1
+ :num-allocs   2576268
+ :rlimit-count 17493
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MESI_all_e4_1147_e7_497
+unsat
+(:max-memory   6.24
+ :memory       5.51
+ :mk-bool-var  1
+ :num-allocs   5394772
+ :rlimit-count 40015
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+MESI_i1_e2_1758_e8_12
+sat
+(:max-memory   5.63
+ :memory       5.25
+ :mk-bool-var  1
+ :num-allocs   2314667
+ :rlimit-count 33563
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e2_2656
+sat
+(:max-memory   5.64
+ :memory       5.27
+ :mk-bool-var  1
+ :num-allocs   2387633
+ :rlimit-count 32941
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e3_188
+sat
+(:max-memory   5.56
+ :memory       5.08
+ :mk-bool-var  1
+ :num-allocs   2636309
+ :rlimit-count 36743
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e3_2145_e1_2667
+sat
+(:max-memory   5.54
+ :memory       5.07
+ :mk-bool-var  1
+ :num-allocs   2642089
+ :rlimit-count 36270
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e3_2145_e2_2228
+sat
+(:max-memory   5.56
+ :memory       5.08
+ :mk-bool-var  1
+ :num-allocs   2636937
+ :rlimit-count 36698
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MESI_i1_e3_2145_e3_977
+sat
+(:max-memory   5.57
+ :memory       5.19
+ :mk-bool-var  1
+ :num-allocs   2693652
+ :rlimit-count 37761
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e3_2145_e6_500
+sat
+(:max-memory   5.64
+ :memory       5.27
+ :mk-bool-var  1
+ :num-allocs   2386549
+ :rlimit-count 32815
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e3_2145_e7_1847
+sat
+(:max-memory   5.92
+ :memory       5.45
+ :mk-bool-var  1
+ :num-allocs   2936854
+ :rlimit-count 42092
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e3_2145_e8_2325
+sat
+(:max-memory   5.58
+ :memory       5.11
+ :mk-bool-var  1
+ :num-allocs   2697796
+ :rlimit-count 35111
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MESI_i1_e4_1986
+sat
+(:max-memory   5.85
+ :memory       5.37
+ :mk-bool-var  1
+ :num-allocs   2910128
+ :rlimit-count 39693
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i1_e4_1986_e1_1519
+sat
+(:max-memory   6.28
+ :memory       5.82
+ :mk-bool-var  1
+ :num-allocs   9319150
+ :rlimit-count 163869
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+MESI_i2
+sat
+(:max-memory   6.09
+ :memory       5.63
+ :mk-bool-var  1
+ :num-allocs   11029315
+ :rlimit-count 141091
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+MESI_i3_e1_2143
+sat
+(:max-memory   6.51
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   16064690
+ :rlimit-count 233179
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.09
+sys 0.00
+####################################################
+MESI_i3_e1_447_e1_1292
+unsat
+(:max-memory   8.66
+ :memory       7.64
+ :mk-bool-var  1
+ :num-allocs   313707930
+ :rlimit-count 1837568
+ :time         0.71
+ :total-time   0.71)
+real 0.71
+user 0.71
+sys 0.00
+####################################################
+MESI_i3_e1_447_e2_1098
+sat
+(:max-memory   5.46
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   2269488
+ :rlimit-count 27231
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MESI_i3_e1_447_e3_1180
+unsat
+(:max-memory   5.95
+ :memory       5.21
+ :mk-bool-var  1
+ :num-allocs   4876626
+ :rlimit-count 40972
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+MESI_i3_e1_447_e6_2281
+unsat
+(:max-memory   10.02
+ :memory       8.95
+ :mk-bool-var  1
+ :num-allocs   531587931
+ :rlimit-count 2489234
+ :time         0.92
+ :total-time   0.93)
+real 0.93
+user 0.92
+sys 0.00
+####################################################
+MESI_i3_e1_447_e7_2194
+sat
+(:max-memory   6.66
+ :memory       6.06
+ :mk-bool-var  1
+ :num-allocs   40565207
+ :rlimit-count 411745
+ :time         0.16
+ :total-time   0.16)
+real 0.16
+user 0.16
+sys 0.00
+####################################################
+MESI_i4
+sat
+(:max-memory   6.53
+ :memory       5.99
+ :mk-bool-var  1
+ :num-allocs   18684633
+ :rlimit-count 256645
+ :time         0.10
+ :total-time   0.11)
+real 0.11
+user 0.11
+sys 0.00
+####################################################
+MESI_i4_e1_1023_e8_2498
+sat
+(:max-memory   7.58
+ :memory       6.89
+ :mk-bool-var  1
+ :num-allocs   101837430
+ :rlimit-count 977811
+ :time         0.33
+ :total-time   0.33)
+real 0.33
+user 0.33
+sys 0.00
+####################################################
+MESI_i4_e4_1689
+sat
+(:max-memory   7.41
+ :memory       6.83
+ :mk-bool-var  1
+ :num-allocs   58444688
+ :rlimit-count 773513
+ :time         0.26
+ :total-time   0.26)
+real 0.26
+user 0.26
+sys 0.00
+####################################################
+MESI_i4_e6_2175
+unsat
+(:max-memory   26.63
+ :memory       24.26
+ :mk-bool-var  1
+ :num-allocs   16925658231.00
+ :rlimit-count 41007822
+ :time         9.66
+ :total-time   9.67)
+real 9.68
+user 9.67
+sys 0.00
+####################################################
+MESI_i4_e7_1017_e6_1132
+unsat
+(:max-memory   24.80
+ :memory       22.98
+ :mk-bool-var  1
+ :num-allocs   10535492731.00
+ :rlimit-count 31129995
+ :time         7.31
+ :total-time   7.31)
+real 7.33
+user 7.32
+sys 0.00
+####################################################
+metros_1_e1_846_e1_1317
+unsat
+(:max-memory   7.60
+ :memory       6.75
+ :mk-bool-var  1
+ :num-allocs   41644191
+ :rlimit-count 320221
+ :time         0.13
+ :total-time   0.13)
+real 0.13
+user 0.13
+sys 0.00
+####################################################
+metros_1_e1_846_e2_1394
+unsat
+(:max-memory   7.45
+ :memory       6.66
+ :mk-bool-var  1
+ :num-allocs   12031250
+ :rlimit-count 154587
+ :time         0.07
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+metros_1_e1_846_e3_1060
+unsat
+(:max-memory   7.44
+ :memory       6.56
+ :mk-bool-var  1
+ :num-allocs   20293912
+ :rlimit-count 200420
+ :time         0.08
+ :total-time   0.09)
+real 0.09
+user 0.08
+sys 0.00
+####################################################
+metros_1_e1_846_e7_397
+unsat
+(:max-memory   7.60
+ :memory       6.82
+ :mk-bool-var  1
+ :num-allocs   48584549
+ :rlimit-count 311544
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.14
+sys 0.00
+####################################################
+metros_1_e1_846_e8_1253
+unsat
+(:max-memory   7.11
+ :memory       6.33
+ :mk-bool-var  1
+ :num-allocs   5262646
+ :rlimit-count 90572
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+metros_1_e2_1102
+unsat
+(:max-memory   7.54
+ :memory       6.74
+ :mk-bool-var  1
+ :num-allocs   21473571
+ :rlimit-count 211188
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.09
+sys 0.00
+####################################################
+metros_1_e2_1102_e1_317
+unsat
+(:max-memory   7.58
+ :memory       6.79
+ :mk-bool-var  1
+ :num-allocs   30362328
+ :rlimit-count 244308
+ :time         0.10
+ :total-time   0.11)
+real 0.11
+user 0.11
+sys 0.00
+####################################################
+metros_1_e2_1102_e2_943
+unsat
+(:max-memory   7.67
+ :memory       6.86
+ :mk-bool-var  1
+ :num-allocs   16526592
+ :rlimit-count 189657
+ :time         0.09
+ :total-time   0.09)
+real 0.09
+user 0.09
+sys 0.00
+####################################################
+metros_1_e2_1102_e3_961
+unsat
+(:max-memory   7.40
+ :memory       6.51
+ :mk-bool-var  1
+ :num-allocs   10363768
+ :rlimit-count 129936
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+metros_1_e2_1102_e7_1163
+unsat
+(:max-memory   7.56
+ :memory       6.77
+ :mk-bool-var  1
+ :num-allocs   23686254
+ :rlimit-count 202589
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.10
+sys 0.00
+####################################################
+metros_1_e2_1102_e8_311
+unsat
+(:max-memory   7.07
+ :memory       6.27
+ :mk-bool-var  1
+ :num-allocs   5093742
+ :rlimit-count 87004
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.01
+####################################################
+metros_1_e7_1255_e7_12
+unsat
+(:max-memory   7.48
+ :memory       6.71
+ :mk-bool-var  1
+ :num-allocs   27381128
+ :rlimit-count 222403
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.10
+sys 0.00
+####################################################
+metros_1_e7_1255_e8_598
+unsat
+(:max-memory   7.82
+ :memory       7.03
+ :mk-bool-var  1
+ :num-allocs   46528372
+ :rlimit-count 333971
+ :time         0.14
+ :total-time   0.14)
+real 0.14
+user 0.14
+sys 0.00
+####################################################
+metros_1_e7_606
+unsat
+(:max-memory   7.60
+ :memory       6.82
+ :mk-bool-var  1
+ :num-allocs   48717587
+ :rlimit-count 312333
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+metros_1_e8_1567
+unsat
+(:max-memory   7.11
+ :memory       6.32
+ :mk-bool-var  1
+ :num-allocs   5258636
+ :rlimit-count 90568
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+metros_1_e8_725_e3_556
+unsat
+(:max-memory   7.11
+ :memory       6.33
+ :mk-bool-var  1
+ :num-allocs   5254433
+ :rlimit-count 89142
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+metros_2
+./run.sh: line 25:  6220 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.93
+sys 0.07
+####################################################
+metros_2_e1_1116
+./run.sh: line 25:  6222 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.92
+sys 0.07
+####################################################
+metros_2_e1_1116_e1_556
+sat
+(:max-memory   9.10
+ :memory       8.50
+ :mk-bool-var  1
+ :num-allocs   309470183
+ :rlimit-count 1012939
+ :time         0.41
+ :total-time   0.41)
+real 0.41
+user 0.40
+sys 0.00
+####################################################
+metros_2_e1_1116_e2_617
+unsat
+(:max-memory   53.36
+ :memory       47.39
+ :mk-bool-var  1
+ :num-allocs   44407089461.00
+ :rlimit-count 19461356
+ :time         7.71
+ :total-time   7.71)
+real 7.75
+user 7.73
+sys 0.02
+####################################################
+metros_2_e1_1116_e3_287
+sat
+(:max-memory   7.98
+ :memory       7.48
+ :mk-bool-var  1
+ :num-allocs   40974048
+ :rlimit-count 346112
+ :time         0.14
+ :total-time   0.15)
+real 0.15
+user 0.14
+sys 0.01
+####################################################
+metros_2_e1_1116_e7_1440
+sat
+(:max-memory   10.27
+ :memory       9.35
+ :mk-bool-var  1
+ :num-allocs   343041204
+ :rlimit-count 1060757
+ :time         0.43
+ :total-time   0.43)
+real 0.44
+user 0.43
+sys 0.00
+####################################################
+metros_2_e2_704
+sat
+(:max-memory   10.49
+ :memory       10.13
+ :mk-bool-var  1
+ :num-allocs   1246100581
+ :rlimit-count 1906174
+ :time         0.79
+ :total-time   0.80)
+real 0.80
+user 0.79
+sys 0.01
+####################################################
+metros_2_e2_704_e1_389
+sat
+(:max-memory   8.91
+ :memory       8.47
+ :mk-bool-var  1
+ :num-allocs   135734784
+ :rlimit-count 604631
+ :time         0.26
+ :total-time   0.26)
+real 0.26
+user 0.26
+sys 0.00
+####################################################
+metros_2_e2_704_e2_13
+unsat
+(:max-memory   7.94
+ :memory       7.09
+ :mk-bool-var  1
+ :num-allocs   21926204
+ :rlimit-count 201922
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.10
+sys 0.00
+####################################################
+metros_2_e2_704_e3_76
+sat
+(:max-memory   8.78
+ :memory       8.16
+ :mk-bool-var  1
+ :num-allocs   49542378
+ :rlimit-count 374902
+ :time         0.15
+ :total-time   0.16)
+real 0.16
+user 0.15
+sys 0.00
+####################################################
+metros_2_e2_704_e7_810
+sat
+(:max-memory   10.01
+ :memory       9.43
+ :mk-bool-var  1
+ :num-allocs   214755668
+ :rlimit-count 795408
+ :time         0.34
+ :total-time   0.34)
+real 0.35
+user 0.34
+sys 0.00
+####################################################
+metros_2_e3_112
+sat
+(:max-memory   13.43
+ :memory       12.57
+ :mk-bool-var  1
+ :num-allocs   2431732102
+ :rlimit-count 3150679
+ :time         1.23
+ :total-time   1.23)
+real 1.24
+user 1.23
+sys 0.00
+####################################################
+metros_3_e3_1117
+sat
+(:max-memory   40.82
+ :memory       36.85
+ :mk-bool-var  1
+ :num-allocs   83990590324.00
+ :rlimit-count 24811264
+ :time         8.39
+ :total-time   8.39)
+real 8.42
+user 8.39
+sys 0.02
+####################################################
+metros_3_e3_1275_e1_1350
+sat
+(:max-memory   27.05
+ :memory       24.24
+ :mk-bool-var  1
+ :num-allocs   14431918221.00
+ :rlimit-count 10205378
+ :time         3.60
+ :total-time   3.60)
+real 3.62
+user 3.60
+sys 0.01
+####################################################
+metros_3_e3_1275_e2_454
+unsat
+(:max-memory   5.67
+ :memory       4.94
+ :mk-bool-var  1
+ :num-allocs   3020501
+ :rlimit-count 19659
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+metros_3_e3_1275_e3_640
+unsat
+(:max-memory   6.02
+ :memory       5.29
+ :mk-bool-var  1
+ :num-allocs   7904262
+ :rlimit-count 67568
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+metros_3_e3_1275_e4_164
+sat
+(:max-memory   44.16
+ :memory       40.65
+ :mk-bool-var  1
+ :num-allocs   27449821705.00
+ :rlimit-count 16769938
+ :time         6.26
+ :total-time   6.26)
+real 6.29
+user 6.28
+sys 0.01
+####################################################
+metros_3_e3_1275_e5_846
+sat
+(:max-memory   40.82
+ :memory       36.85
+ :mk-bool-var  1
+ :num-allocs   84106830569.00
+ :rlimit-count 24811483
+ :time         8.36
+ :total-time   8.36)
+real 8.39
+user 8.37
+sys 0.02
+####################################################
+metros_3_e3_1275_e6_1315
+sat
+(:max-memory   30.09
+ :memory       27.27
+ :mk-bool-var  1
+ :num-allocs   29346782635.00
+ :rlimit-count 13160171
+ :time         5.00
+ :total-time   5.01)
+real 5.02
+user 5.01
+sys 0.01
+####################################################
+metros_3_e3_1275_e7_529
+sat
+(:max-memory   41.26
+ :memory       37.34
+ :mk-bool-var  1
+ :num-allocs   19587272017.00
+ :rlimit-count 11109837
+ :time         4.38
+ :total-time   4.39)
+real 4.41
+user 4.39
+sys 0.01
+####################################################
+metros_3_e4_1251
+sat
+(:max-memory   39.42
+ :memory       35.90
+ :mk-bool-var  1
+ :num-allocs   36244654372.00
+ :rlimit-count 14498039
+ :time         5.59
+ :total-time   5.60)
+real 5.62
+user 5.61
+sys 0.01
+####################################################
+metros_3_e4_987_e1_1115
+sat
+(:max-memory   42.65
+ :memory       38.53
+ :mk-bool-var  1
+ :num-allocs   24919746238.00
+ :rlimit-count 10876024
+ :time         4.67
+ :total-time   4.67)
+real 4.70
+user 4.67
+sys 0.02
+####################################################
+metros_3_e4_987_e2_80
+sat
+(:max-memory   47.17
+ :memory       42.97
+ :mk-bool-var  1
+ :num-allocs   75206460826.00
+ :rlimit-count 24013323
+ :time         8.99
+ :total-time   8.99)
+real 9.03
+user 8.99
+sys 0.03
+####################################################
+metros_3_e4_987_e3_291
+sat
+(:max-memory   38.34
+ :memory       33.78
+ :mk-bool-var  1
+ :num-allocs   36676988952.00
+ :rlimit-count 16875469
+ :time         6.12
+ :total-time   6.13)
+real 6.15
+user 6.13
+sys 0.01
+####################################################
+metros_4
+unsat
+(:max-memory   15.01
+ :memory       13.77
+ :mk-bool-var  1
+ :num-allocs   135988577
+ :rlimit-count 669736
+ :time         0.27
+ :total-time   0.28)
+real 0.28
+user 0.28
+sys 0.00
+####################################################
+metros_4_e1_821_e5_911
+sat
+(:max-memory   27.27
+ :memory       24.59
+ :mk-bool-var  1
+ :num-allocs   9443112700.00
+ :rlimit-count 7753867
+ :time         3.04
+ :total-time   3.05)
+real 3.06
+user 3.06
+sys 0.00
+####################################################
+metros_4_e1_917
+sat
+(:max-memory   21.61
+ :memory       21.52
+ :mk-bool-var  1
+ :num-allocs   4817813132.00
+ :rlimit-count 5305702
+ :time         2.13
+ :total-time   2.14)
+real 2.15
+user 2.13
+sys 0.01
+####################################################
+metros_4_e2_532
+sat
+(:max-memory   16.55
+ :memory       15.33
+ :mk-bool-var  1
+ :num-allocs   5497122909.00
+ :rlimit-count 5620004
+ :time         2.10
+ :total-time   2.10)
+real 2.11
+user 2.10
+sys 0.00
+####################################################
+metros_4_e2_968_e1_956
+sat
+(:max-memory   18.54
+ :memory       16.65
+ :mk-bool-var  1
+ :num-allocs   4528009487.00
+ :rlimit-count 4998540
+ :time         1.84
+ :total-time   1.84)
+real 1.85
+user 1.85
+sys 0.00
+####################################################
+metros_4_e2_968_e2_1166
+unsat
+(:max-memory   7.58
+ :memory       6.73
+ :mk-bool-var  1
+ :num-allocs   14700623
+ :rlimit-count 177675
+ :time         0.08
+ :total-time   0.08)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+metros_4_e2_968_e3_931
+unsat
+(:max-memory   7.48
+ :memory       6.68
+ :mk-bool-var  1
+ :num-allocs   12678167
+ :rlimit-count 171485
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.07
+sys 0.01
+####################################################
+metros_4_e2_968_e4_801
+sat
+(:max-memory   50.47
+ :memory       44.80
+ :mk-bool-var  1
+ :num-allocs   70964543627.00
+ :rlimit-count 26681720
+ :time         9.77
+ :total-time   9.77)
+real 9.80
+user 9.78
+sys 0.02
+####################################################
+metros_4_e2_968_e5_991
+sat
+(:max-memory   40.08
+ :memory       36.33
+ :mk-bool-var  1
+ :num-allocs   32263195840.00
+ :rlimit-count 16121562
+ :time         6.34
+ :total-time   6.34)
+real 6.36
+user 6.35
+sys 0.01
+####################################################
+metros_4_e2_968_e6_236
+sat
+(:max-memory   23.41
+ :memory       21.36
+ :mk-bool-var  1
+ :num-allocs   13397729841.00
+ :rlimit-count 12750830
+ :time         4.10
+ :total-time   4.11)
+real 4.12
+user 4.11
+sys 0.00
+####################################################
+metros_4_e2_968_e7_860
+./run.sh: line 25:  6289 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.89
+sys 0.11
+####################################################
+metros_4_e3_1025
+sat
+(:max-memory   22.70
+ :memory       21.03
+ :mk-bool-var  1
+ :num-allocs   13039087067.00
+ :rlimit-count 8610570
+ :time         3.15
+ :total-time   3.16)
+real 3.17
+user 3.14
+sys 0.02
+####################################################
+metros_4_e3_1091_e1_1044
+sat
+(:max-memory   16.30
+ :memory       14.94
+ :mk-bool-var  1
+ :num-allocs   16644512380.00
+ :rlimit-count 8937522
+ :time         3.41
+ :total-time   3.41)
+real 3.42
+user 3.41
+sys 0.00
+####################################################
+metros_4_e3_1091_e2_1317
+unsat
+(:max-memory   5.67
+ :memory       4.94
+ :mk-bool-var  1
+ :num-allocs   3020337
+ :rlimit-count 19659
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+metros_4_e3_1091_e3_522
+unsat
+(:max-memory   6.02
+ :memory       5.29
+ :mk-bool-var  1
+ :num-allocs   7900490
+ :rlimit-count 67568
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+metros_4_e5_1150
+sat
+(:max-memory   46.49
+ :memory       42.42
+ :mk-bool-var  1
+ :num-allocs   23370117674.00
+ :rlimit-count 14703685
+ :time         6.12
+ :total-time   6.12)
+real 6.15
+user 6.13
+sys 0.02
+####################################################
+metros_5
+sat
+(:max-memory   81.35
+ :memory       72.75
+ :mk-bool-var  1
+ :num-allocs   230075255539.00
+ :rlimit-count 75748752
+ :time         24.86
+ :total-time   24.87)
+real 24.93
+user 24.90
+sys 0.02
+####################################################
+metros_5_e4_1208_e1_337
+sat
+(:max-memory   39.70
+ :memory       35.54
+ :mk-bool-var  1
+ :num-allocs   55456776310.00
+ :rlimit-count 19172525
+ :time         7.31
+ :total-time   7.31)
+real 7.34
+user 7.33
+sys 0.00
+####################################################
+MOESI_1
+unsat
+(:max-memory   6.17
+ :memory       5.43
+ :mk-bool-var  1
+ :num-allocs   6591623
+ :rlimit-count 43813
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+MOESI_1_e2_982_e7_492
+unsat
+(:max-memory   6.16
+ :memory       5.43
+ :mk-bool-var  1
+ :num-allocs   6085307
+ :rlimit-count 36956
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+MOESI_1_e3_1884_e7_1875
+unsat
+(:max-memory   6.28
+ :memory       5.54
+ :mk-bool-var  1
+ :num-allocs   8066285
+ :rlimit-count 59262
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+MOESI_2_e1_1121
+unsat
+(:max-memory   6.14
+ :memory       5.40
+ :mk-bool-var  1
+ :num-allocs   2937869
+ :rlimit-count 28686
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e1_1753_e1_1510
+sat
+(:max-memory   5.78
+ :memory       5.41
+ :mk-bool-var  1
+ :num-allocs   2138929
+ :rlimit-count 32578
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e1_1753_e2_615
+sat
+(:max-memory   5.95
+ :memory       5.57
+ :mk-bool-var  1
+ :num-allocs   2562171
+ :rlimit-count 38965
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e1_1753_e3_2021
+sat
+(:max-memory   6.28
+ :memory       5.80
+ :mk-bool-var  1
+ :num-allocs   5722336
+ :rlimit-count 101364
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+MOESI_2_e1_1753_e7_1626
+sat
+(:max-memory   5.62
+ :memory       5.36
+ :mk-bool-var  1
+ :num-allocs   2438575
+ :rlimit-count 34264
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e1_1753_e8_1769
+unsat
+(:max-memory   6.13
+ :memory       5.39
+ :mk-bool-var  1
+ :num-allocs   2905524
+ :rlimit-count 31623
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e2_155
+unsat
+(:max-memory   6.15
+ :memory       5.41
+ :mk-bool-var  1
+ :num-allocs   2936938
+ :rlimit-count 28308
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e2_1599_e1_2383
+sat
+(:max-memory   5.91
+ :memory       5.45
+ :mk-bool-var  1
+ :num-allocs   2485497
+ :rlimit-count 36162
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e2_1599_e2_1815
+sat
+(:max-memory   5.99
+ :memory       5.51
+ :mk-bool-var  1
+ :num-allocs   2958114
+ :rlimit-count 45842
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e2_1599_e3_1658
+sat
+(:max-memory   6.54
+ :memory       6.01
+ :mk-bool-var  1
+ :num-allocs   8744616
+ :rlimit-count 180730
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+MOESI_2_e2_1599_e7_1597
+sat
+(:max-memory   5.48
+ :memory       5.20
+ :mk-bool-var  1
+ :num-allocs   1952218
+ :rlimit-count 28266
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e2_1599_e8_1334
+unsat
+(:max-memory   5.97
+ :memory       5.24
+ :mk-bool-var  1
+ :num-allocs   2878256
+ :rlimit-count 29509
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e3_1523
+unsat
+(:max-memory   6.14
+ :memory       5.40
+ :mk-bool-var  1
+ :num-allocs   2938418
+ :rlimit-count 28397
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e3_929_e1_2319
+sat
+(:max-memory   5.90
+ :memory       5.42
+ :mk-bool-var  1
+ :num-allocs   2542956
+ :rlimit-count 38019
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e3_929_e2_2421
+sat
+(:max-memory   5.98
+ :memory       5.51
+ :mk-bool-var  1
+ :num-allocs   3007352
+ :rlimit-count 45740
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e3_929_e3_2294
+sat
+(:max-memory   6.46
+ :memory       5.99
+ :mk-bool-var  1
+ :num-allocs   8562436
+ :rlimit-count 171785
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+MOESI_2_e3_929_e4_578
+unsat
+(:max-memory   6.14
+ :memory       5.40
+ :mk-bool-var  1
+ :num-allocs   2936994
+ :rlimit-count 28867
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e3_929_e5_1826
+unsat
+(:max-memory   6.14
+ :memory       5.40
+ :mk-bool-var  1
+ :num-allocs   2896068
+ :rlimit-count 28388
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e3_929_e6_2707
+unsat
+(:max-memory   6.15
+ :memory       5.41
+ :mk-bool-var  1
+ :num-allocs   2936655
+ :rlimit-count 27846
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e3_929_e7_619
+sat
+(:max-memory   5.47
+ :memory       5.19
+ :mk-bool-var  1
+ :num-allocs   1953462
+ :rlimit-count 30293
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e3_929_e8_1167
+unsat
+(:max-memory   6.30
+ :memory       5.37
+ :mk-bool-var  1
+ :num-allocs   2941357
+ :rlimit-count 32049
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e7_2607
+sat
+(:max-memory   5.48
+ :memory       5.20
+ :mk-bool-var  1
+ :num-allocs   1952113
+ :rlimit-count 28236
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e7_2910_e7_1804
+sat
+(:max-memory   5.49
+ :memory       5.21
+ :mk-bool-var  1
+ :num-allocs   1952314
+ :rlimit-count 28931
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e8_101
+unsat
+(:max-memory   5.97
+ :memory       5.24
+ :mk-bool-var  1
+ :num-allocs   2879672
+ :rlimit-count 30293
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_2_e8_926_e7_961
+sat
+(:max-memory   5.49
+ :memory       5.21
+ :mk-bool-var  1
+ :num-allocs   1953035
+ :rlimit-count 28617
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+MOESI_2_e8_926_e8_2138
+unsat
+(:max-memory   5.97
+ :memory       5.23
+ :mk-bool-var  1
+ :num-allocs   2865186
+ :rlimit-count 31277
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+MOESI_all
+unsat
+(:max-memory   6.44
+ :memory       5.71
+ :mk-bool-var  1
+ :num-allocs   8496240
+ :rlimit-count 62191
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+MOESI_all_e3_2032_e3_2788
+sat
+(:max-memory   6.76
+ :memory       6.17
+ :mk-bool-var  1
+ :num-allocs   14617988
+ :rlimit-count 322525
+ :time         0.08
+ :total-time   0.09)
+real 0.09
+user 0.09
+sys 0.00
+####################################################
+peterson_1
+unsat
+(:max-memory   9.96
+ :memory       7.28
+ :mk-bool-var  1
+ :num-allocs   5772950
+ :rlimit-count 49354
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+peterson_1_e7_4234
+unsat
+(:max-memory   9.96
+ :memory       7.82
+ :mk-bool-var  1
+ :num-allocs   11572566
+ :rlimit-count 99733
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.01
+####################################################
+peterson_2
+unsat
+(:max-memory   9.99
+ :memory       7.35
+ :mk-bool-var  1
+ :num-allocs   5842747
+ :rlimit-count 50587
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+peterson_3
+unsat
+(:max-memory   9.99
+ :memory       7.31
+ :mk-bool-var  1
+ :num-allocs   5829436
+ :rlimit-count 50008
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+peterson_4
+unsat
+(:max-memory   9.99
+ :memory       7.30
+ :mk-bool-var  1
+ :num-allocs   5823691
+ :rlimit-count 50126
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+peterson_all
+unsat
+(:max-memory   10.13
+ :memory       7.56
+ :mk-bool-var  1
+ :num-allocs   6044816
+ :rlimit-count 57735
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+peterson_vt
+sat
+(:max-memory   12.05
+ :memory       11.03
+ :mk-bool-var  1
+ :num-allocs   617515079
+ :rlimit-count 3478387
+ :time         0.78
+ :total-time   0.78)
+real 0.79
+user 0.78
+sys 0.00
+####################################################
+PRODUCER_CONSUMER_1
+unsat
+(:max-memory   5.62
+ :memory       4.89
+ :mk-bool-var  1
+ :num-allocs   2548828
+ :rlimit-count 16894
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+PRODUCER_CONSUMER_2
+unsat
+(:max-memory   5.61
+ :memory       4.91
+ :mk-bool-var  1
+ :num-allocs   3657613
+ :rlimit-count 26929
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+PRODUCER_CONSUMER_3
+unsat
+(:max-memory   5.54
+ :memory       4.81
+ :mk-bool-var  1
+ :num-allocs   1921661
+ :rlimit-count 11453
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+PRODUCER_CONSUMER_all
+unsat
+(:max-memory   5.58
+ :memory       4.84
+ :mk-bool-var  1
+ :num-allocs   2011523
+ :rlimit-count 12677
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+PRODUCER_CONSUMER_vt_e2_1352
+./run.sh: line 25:  6390 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.98
+sys 0.01
+####################################################
+PRODUCER_CONSUMER_vt_e3_507
+./run.sh: line 25:  6392 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.98
+sys 0.01
+####################################################
+PRODUCER_CONSUMER_vt_e7_1059_e8_1111
+./run.sh: line 25:  6396 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.96
+sys 0.02
+####################################################
+PRODUCER_CONSUMMER_luke_1
+sat
+(:max-memory   5.20
+ :memory       4.93
+ :mk-bool-var  1
+ :num-allocs   1475285
+ :rlimit-count 20034
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+PRODUCER_CONSUMMER_luke_2_e7_1068_e8_1019
+./run.sh: line 25:  6400 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.02
+####################################################
+production_cell_e7_207
+./run.sh: line 25:  6402 Killed                  $args $prefix/${f}${suffix}
+real 60.05
+user 59.06
+sys 0.99
+####################################################
+production_cell_e7_207_e7_41
+./run.sh: line 25:  6404 Killed                  $args $prefix/${f}${suffix}
+real 60.06
+user 59.12
+sys 0.94
+####################################################
+production_cell_e7_207_e8_241
+./run.sh: line 25:  6407 Killed                  $args $prefix/${f}${suffix}
+real 60.05
+user 59.04
+sys 1.01
+####################################################
+production_cell_e8_6
+./run.sh: line 25:  6410 Killed                  $args $prefix/${f}${suffix}
+real 60.05
+user 59.07
+sys 0.98
+####################################################
+production_cell_e8_6_e7_651
+./run.sh: line 25:  6412 Killed                  $args $prefix/${f}${suffix}
+real 60.05
+user 59.03
+sys 1.02
+####################################################
+production_cell_e8_6_e8_427
+./run.sh: line 25:  6414 Killed                  $args $prefix/${f}${suffix}
+real 60.06
+user 58.91
+sys 1.15
+####################################################
+production_cell_e8_792
+./run.sh: line 25:  6480 Killed                  $args $prefix/${f}${suffix}
+real 60.06
+user 59.10
+sys 0.95
+####################################################
+readwrit
+unsat
+(:max-memory   8.19
+ :memory       6.95
+ :mk-bool-var  1
+ :num-allocs   5077721
+ :rlimit-count 44930
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+rtp_1
+unsat
+(:max-memory   7.36
+ :memory       6.51
+ :mk-bool-var  1
+ :num-allocs   4053879
+ :rlimit-count 34577
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+rtp_10
+unsat
+(:max-memory   7.36
+ :memory       6.52
+ :mk-bool-var  1
+ :num-allocs   4051206
+ :rlimit-count 34974
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+rtp_10_e7_106_e7_2564
+unsat
+(:max-memory   7.70
+ :memory       6.76
+ :mk-bool-var  1
+ :num-allocs   5732232
+ :rlimit-count 47885
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+rtp_2
+unsat
+(:max-memory   7.40
+ :memory       6.55
+ :mk-bool-var  1
+ :num-allocs   4062334
+ :rlimit-count 35484
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+rtp_3
+unsat
+(:max-memory   7.38
+ :memory       6.54
+ :mk-bool-var  1
+ :num-allocs   4069987
+ :rlimit-count 36439
+ :time         0.02
+ :total-time   0.02)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+rtp_4
+unsat
+(:max-memory   7.38
+ :memory       6.53
+ :mk-bool-var  1
+ :num-allocs   4058469
+ :rlimit-count 35962
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.01
+####################################################
+rtp_5
+unsat
+(:max-memory   7.36
+ :memory       6.51
+ :mk-bool-var  1
+ :num-allocs   4043816
+ :rlimit-count 34775
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+rtp_5_e7_3972
+unsat
+(:max-memory   7.68
+ :memory       6.73
+ :mk-bool-var  1
+ :num-allocs   5810552
+ :rlimit-count 46721
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.01
+####################################################
+rtp_6
+unsat
+(:max-memory   7.43
+ :memory       6.58
+ :mk-bool-var  1
+ :num-allocs   4109473
+ :rlimit-count 35886
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+rtp_7
+unsat
+(:max-memory   7.37
+ :memory       6.53
+ :mk-bool-var  1
+ :num-allocs   4051674
+ :rlimit-count 35080
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+rtp_8
+unsat
+(:max-memory   7.40
+ :memory       6.55
+ :mk-bool-var  1
+ :num-allocs   4060465
+ :rlimit-count 35631
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+rtp_9
+unsat
+(:max-memory   7.37
+ :memory       6.52
+ :mk-bool-var  1
+ :num-allocs   4052177
+ :rlimit-count 35078
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+rtp_all
+unsat
+(:max-memory   7.70
+ :memory       6.85
+ :mk-bool-var  1
+ :num-allocs   4374063
+ :rlimit-count 51577
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+rtp_all_e7_2500
+unsat
+(:max-memory   8.27
+ :memory       7.32
+ :mk-bool-var  1
+ :num-allocs   18495284
+ :rlimit-count 170887
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.07
+sys 0.00
+####################################################
+rtp_vt
+unsat
+(:max-memory   40.76
+ :memory       38.29
+ :mk-bool-var  1
+ :num-allocs   36060873181.00
+ :rlimit-count 22603636
+ :time         10.23
+ :total-time   10.23)
+real 10.26
+user 10.25
+sys 0.01
+####################################################
+speed_e7_207
+unsat
+(:max-memory   5.03
+ :memory       4.29
+ :mk-bool-var  1
+ :num-allocs   1525278
+ :rlimit-count 4941
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+speed_e7_207_e7_538
+unsat
+(:max-memory   5.02
+ :memory       4.29
+ :mk-bool-var  1
+ :num-allocs   1529889
+ :rlimit-count 4815
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+speed_e7_207_e8_507
+unsat
+(:max-memory   5.02
+ :memory       4.29
+ :mk-bool-var  1
+ :num-allocs   1475338
+ :rlimit-count 4819
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+speed_e8_136
+unsat
+(:max-memory   5.02
+ :memory       4.29
+ :mk-bool-var  1
+ :num-allocs   1474897
+ :rlimit-count 4813
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+speed_e8_649_e7_709
+unsat
+(:max-memory   5.03
+ :memory       4.29
+ :mk-bool-var  1
+ :num-allocs   1524825
+ :rlimit-count 4939
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+stalmark_e7_27
+unsat
+(:max-memory   2.51
+ :memory       2.51
+ :mk-bool-var  1
+ :num-allocs   166029
+ :rlimit-count 1130
+ :time         0.00
+ :total-time   0.00)
+real 0.00
+user 0.00
+sys 0.00
+####################################################
+stalmark_e7_27_e7_31
+unsat
+(:max-memory   2.51
+ :memory       2.51
+ :mk-bool-var  1
+ :num-allocs   166030
+ :rlimit-count 1060
+ :time         0.00
+ :total-time   0.00)
+real 0.00
+user 0.00
+sys 0.00
+####################################################
+stalmark_e7_27_e8_261
+unsat
+(:max-memory   2.51
+ :memory       2.51
+ :mk-bool-var  1
+ :num-allocs   166171
+ :rlimit-count 988
+ :time         0.00
+ :total-time   0.00)
+real 0.00
+user 0.00
+sys 0.00
+####################################################
+stalmark_e8_48
+sat
+(:max-memory   2.42
+ :memory       2.42
+ :mk-bool-var  1
+ :num-allocs   154718
+ :rlimit-count 1024
+ :time         0.00
+ :total-time   0.00)
+real 0.00
+user 0.00
+sys 0.00
+####################################################
+stalmark_e8_64_e7_80
+sat
+(:max-memory   2.51
+ :memory       2.51
+ :mk-bool-var  1
+ :num-allocs   166034
+ :rlimit-count 1234
+ :time         0.00
+ :total-time   0.00)
+real 0.00
+user 0.00
+sys 0.00
+####################################################
+stalmark_e8_64_e8_207
+sat
+(:max-memory   2.42
+ :memory       2.42
+ :mk-bool-var  1
+ :num-allocs   154718
+ :rlimit-count 808
+ :time         0.00
+ :total-time   0.00)
+real 0.00
+user 0.00
+sys 0.00
+####################################################
+swimmingpool_1
+sat
+(:max-memory   9.82
+ :memory       9.19
+ :mk-bool-var  1
+ :num-allocs   351096354
+ :rlimit-count 3484842
+ :time         0.64
+ :total-time   0.64)
+real 0.65
+user 0.64
+sys 0.00
+####################################################
+swimmingpool_1_e7_1621
+sat
+(:max-memory   7.42
+ :memory       7.04
+ :mk-bool-var  1
+ :num-allocs   28880656
+ :rlimit-count 448383
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.00
+####################################################
+swimmingpool_2
+sat
+(:max-memory   6.10
+ :memory       6.01
+ :mk-bool-var  1
+ :num-allocs   2279500
+ :rlimit-count 35876
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+swimmingpool_3
+sat
+(:max-memory   6.85
+ :memory       6.48
+ :mk-bool-var  1
+ :num-allocs   7117361
+ :rlimit-count 113584
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+swimmingpool_4
+sat
+(:max-memory   7.34
+ :memory       6.76
+ :mk-bool-var  1
+ :num-allocs   20641107
+ :rlimit-count 255453
+ :time         0.09
+ :total-time   0.10)
+real 0.10
+user 0.09
+sys 0.00
+####################################################
+swimmingpool_4_e7_2197
+sat
+(:max-memory   7.35
+ :memory       6.70
+ :mk-bool-var  1
+ :num-allocs   22856367
+ :rlimit-count 259622
+ :time         0.10
+ :total-time   0.11)
+real 0.11
+user 0.10
+sys 0.00
+####################################################
+swimmingpool_5
+sat
+(:max-memory   7.49
+ :memory       6.85
+ :mk-bool-var  1
+ :num-allocs   53824883
+ :rlimit-count 455828
+ :time         0.17
+ :total-time   0.18)
+real 0.18
+user 0.17
+sys 0.00
+####################################################
+swimmingpool_6_e7_10
+sat
+(:max-memory   7.54
+ :memory       7.09
+ :mk-bool-var  1
+ :num-allocs   67181638
+ :rlimit-count 543357
+ :time         0.20
+ :total-time   0.21)
+real 0.21
+user 0.21
+sys 0.00
+####################################################
+swimmingpool_6_e7_10_e7_341
+sat
+(:max-memory   8.00
+ :memory       7.33
+ :mk-bool-var  1
+ :num-allocs   82655428
+ :rlimit-count 632494
+ :time         0.23
+ :total-time   0.24)
+real 0.24
+user 0.24
+sys 0.00
+####################################################
+swimmingpool_6_e7_10_e8_1713
+sat
+(:max-memory   7.77
+ :memory       7.18
+ :mk-bool-var  1
+ :num-allocs   98005624
+ :rlimit-count 693321
+ :time         0.25
+ :total-time   0.26)
+real 0.26
+user 0.25
+sys 0.00
+####################################################
+swimmingpool_7
+sat
+(:max-memory   8.41
+ :memory       7.70
+ :mk-bool-var  1
+ :num-allocs   196098301
+ :rlimit-count 1046277
+ :time         0.38
+ :total-time   0.38)
+real 0.38
+user 0.38
+sys 0.00
+####################################################
+swimmingpool_8
+sat
+(:max-memory   9.90
+ :memory       9.03
+ :mk-bool-var  1
+ :num-allocs   464122160
+ :rlimit-count 1765551
+ :time         0.62
+ :total-time   0.62)
+real 0.62
+user 0.62
+sys 0.00
+####################################################
+swimmingpool_9
+sat
+(:max-memory   11.03
+ :memory       10.35
+ :mk-bool-var  1
+ :num-allocs   1312781999
+ :rlimit-count 3250136
+ :time         1.15
+ :total-time   1.16)
+real 1.16
+user 1.16
+sys 0.00
+####################################################
+switch2
+sat
+(:max-memory   2.87
+ :memory       2.87
+ :mk-bool-var  1
+ :num-allocs   211465
+ :rlimit-count 151554
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_1
+unsat
+(:max-memory   5.41
+ :memory       4.68
+ :mk-bool-var  1
+ :num-allocs   2003392
+ :rlimit-count 9627
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_123_e2_1350_e8_1354
+sat
+(:max-memory   4.98
+ :memory       4.90
+ :mk-bool-var  1
+ :num-allocs   1273629
+ :rlimit-count 18662
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_123_e2_1653
+sat
+(:max-memory   5.42
+ :memory       5.04
+ :mk-bool-var  1
+ :num-allocs   1663085
+ :rlimit-count 23957
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_123_e3_302
+sat
+(:max-memory   5.70
+ :memory       5.23
+ :mk-bool-var  1
+ :num-allocs   3193406
+ :rlimit-count 54105
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_123_e3_302_e1_1141
+sat
+(:max-memory   5.50
+ :memory       5.27
+ :mk-bool-var  1
+ :num-allocs   3101213
+ :rlimit-count 52222
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_123_e7_837_e2_1394
+sat
+(:max-memory   5.41
+ :memory       5.03
+ :mk-bool-var  1
+ :num-allocs   2006389
+ :rlimit-count 26351
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_123_e7_837_e3_135
+sat
+(:max-memory   6.07
+ :memory       5.69
+ :mk-bool-var  1
+ :num-allocs   10378307
+ :rlimit-count 139812
+ :time         0.06
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+SYNAPSE_123_e7_837_e7_1262
+unsat
+(:max-memory   7.66
+ :memory       6.74
+ :mk-bool-var  1
+ :num-allocs   33288457
+ :rlimit-count 439113
+ :time         0.14
+ :total-time   0.14)
+real 0.14
+user 0.13
+sys 0.01
+####################################################
+SYNAPSE_123_e7_837_e8_12
+unsat
+(:max-memory   5.68
+ :memory       4.94
+ :mk-bool-var  1
+ :num-allocs   2248981
+ :rlimit-count 19379
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_123_e7_856
+unsat
+(:max-memory   7.81
+ :memory       6.63
+ :mk-bool-var  1
+ :num-allocs   37226865
+ :rlimit-count 396582
+ :time         0.13
+ :total-time   0.14)
+real 0.14
+user 0.14
+sys 0.00
+####################################################
+SYNAPSE_123_e8_748
+unsat
+(:max-memory   5.73
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   2321921
+ :rlimit-count 22660
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_123_e8_953_e1_1128
+sat
+(:max-memory   4.98
+ :memory       4.90
+ :mk-bool-var  1
+ :num-allocs   1273361
+ :rlimit-count 18998
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_123_e8_953_e3_271
+sat
+(:max-memory   5.55
+ :memory       5.39
+ :mk-bool-var  1
+ :num-allocs   3048806
+ :rlimit-count 55097
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_123_e8_953_e7_1465
+unsat
+(:max-memory   6.67
+ :memory       5.83
+ :mk-bool-var  1
+ :num-allocs   12816388
+ :rlimit-count 140381
+ :time         0.06
+ :total-time   0.06)
+real 0.07
+user 0.06
+sys 0.00
+####################################################
+SYNAPSE_123_e8_953_e8_941
+unsat
+(:max-memory   5.70
+ :memory       4.96
+ :mk-bool-var  1
+ :num-allocs   2308955
+ :rlimit-count 21294
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e1_1239
+sat
+(:max-memory   4.92
+ :memory       4.92
+ :mk-bool-var  1
+ :num-allocs   1284701
+ :rlimit-count 17996
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e1_1239_e1_1331
+sat
+(:max-memory   4.92
+ :memory       4.92
+ :mk-bool-var  1
+ :num-allocs   1284746
+ :rlimit-count 17916
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e1_1239_e2_74
+sat
+(:max-memory   5.34
+ :memory       4.96
+ :mk-bool-var  1
+ :num-allocs   1624305
+ :rlimit-count 21106
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e3_216
+sat
+(:max-memory   5.61
+ :memory       5.14
+ :mk-bool-var  1
+ :num-allocs   3986846
+ :rlimit-count 81650
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_2_e7_790_e8_1344
+unsat
+(:max-memory   5.56
+ :memory       4.83
+ :mk-bool-var  1
+ :num-allocs   2176712
+ :rlimit-count 15849
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e8_1118
+unsat
+(:max-memory   5.54
+ :memory       4.81
+ :mk-bool-var  1
+ :num-allocs   2183458
+ :rlimit-count 15898
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e8_1118_e1_667
+sat
+(:max-memory   4.90
+ :memory       4.82
+ :mk-bool-var  1
+ :num-allocs   1275643
+ :rlimit-count 15543
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e8_1118_e2_237
+sat
+(:max-memory   4.90
+ :memory       4.81
+ :mk-bool-var  1
+ :num-allocs   1249189
+ :rlimit-count 15314
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e8_1118_e3_1216
+sat
+(:max-memory   5.41
+ :memory       5.08
+ :mk-bool-var  1
+ :num-allocs   2459376
+ :rlimit-count 43941
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_2_e8_1118_e7_1043
+unsat
+(:max-memory   5.55
+ :memory       4.81
+ :mk-bool-var  1
+ :num-allocs   2199790
+ :rlimit-count 16332
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_2_e8_1118_e8_1177
+unsat
+(:max-memory   5.54
+ :memory       4.80
+ :mk-bool-var  1
+ :num-allocs   2163519
+ :rlimit-count 15411
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e1_1303
+sat
+(:max-memory   5.41
+ :memory       4.94
+ :mk-bool-var  1
+ :num-allocs   1831076
+ :rlimit-count 27200
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e1_1416_e1_1675
+sat
+(:max-memory   5.39
+ :memory       5.01
+ :mk-bool-var  1
+ :num-allocs   1872179
+ :rlimit-count 26576
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_3_e1_1416_e2_753
+sat
+(:max-memory   5.39
+ :memory       4.91
+ :mk-bool-var  1
+ :num-allocs   1856400
+ :rlimit-count 26615
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e1_1416_e3_1191
+sat
+(:max-memory   5.41
+ :memory       4.94
+ :mk-bool-var  1
+ :num-allocs   1855115
+ :rlimit-count 27830
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e1_1416_e7_193
+sat
+(:max-memory   5.37
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   2687389
+ :rlimit-count 35088
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_3_e3_1041
+sat
+(:max-memory   5.58
+ :memory       5.11
+ :mk-bool-var  1
+ :num-allocs   4462159
+ :rlimit-count 73339
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_3_e3_518_e8_922
+sat
+(:max-memory   5.86
+ :memory       5.40
+ :mk-bool-var  1
+ :num-allocs   7159325
+ :rlimit-count 118130
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+SYNAPSE_3_e7_1444_e7_638
+unsat
+(:max-memory   10.75
+ :memory       9.56
+ :mk-bool-var  1
+ :num-allocs   280993820
+ :rlimit-count 3645673
+ :time         0.65
+ :total-time   0.65)
+real 0.65
+user 0.64
+sys 0.01
+####################################################
+SYNAPSE_3_e7_1444_e8_1581
+unsat
+(:max-memory   5.58
+ :memory       4.85
+ :mk-bool-var  1
+ :num-allocs   2179139
+ :rlimit-count 15417
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e7_425
+./run.sh: line 25:  6642 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.01
+####################################################
+SYNAPSE_3_e8_1329
+unsat
+(:max-memory   5.61
+ :memory       4.87
+ :mk-bool-var  1
+ :num-allocs   2200867
+ :rlimit-count 17676
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e8_1329_e1_1270
+sat
+(:max-memory   5.27
+ :memory       4.80
+ :mk-bool-var  1
+ :num-allocs   1834924
+ :rlimit-count 21951
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e8_1329_e2_236
+sat
+(:max-memory   5.13
+ :memory       4.85
+ :mk-bool-var  1
+ :num-allocs   1493810
+ :rlimit-count 18652
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_3_e8_1329_e7_1062
+unsat
+(:max-memory   12.81
+ :memory       11.44
+ :mk-bool-var  1
+ :num-allocs   864430777
+ :rlimit-count 4875923
+ :time         1.18
+ :total-time   1.18)
+real 1.19
+user 1.18
+sys 0.00
+####################################################
+SYNAPSE_3_e8_1329_e8_320
+unsat
+(:max-memory   5.59
+ :memory       4.85
+ :mk-bool-var  1
+ :num-allocs   2216034
+ :rlimit-count 17334
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_4
+unsat
+(:max-memory   5.43
+ :memory       4.69
+ :mk-bool-var  1
+ :num-allocs   2045310
+ :rlimit-count 10148
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_4_e8_420_e7_572
+unsat
+(:max-memory   5.66
+ :memory       4.95
+ :mk-bool-var  1
+ :num-allocs   4909416
+ :rlimit-count 29677
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_4_e8_420_e8_1525
+unsat
+(:max-memory   5.48
+ :memory       4.74
+ :mk-bool-var  1
+ :num-allocs   2060944
+ :rlimit-count 10510
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+SYNAPSE_4_e8_974
+unsat
+(:max-memory   5.45
+ :memory       4.71
+ :mk-bool-var  1
+ :num-allocs   2067813
+ :rlimit-count 10411
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_5_e1_1375
+sat
+(:max-memory   5.46
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   4267671
+ :rlimit-count 68965
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_5_e1_811_e1_823
+sat
+(:max-memory   5.46
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   4267672
+ :rlimit-count 69012
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_5_e1_811_e2_1026
+sat
+(:max-memory   5.46
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   4268760
+ :rlimit-count 68963
+ :time         0.03
+ :total-time   0.03)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_5_e2_1525
+./run.sh: line 25:  6671 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.97
+sys 0.02
+####################################################
+SYNAPSE_5_e7_1138_e8_809
+unsat
+(:max-memory   12.72
+ :memory       11.32
+ :mk-bool-var  1
+ :num-allocs   1860757954
+ :rlimit-count 10639149
+ :time         2.59
+ :total-time   2.60)
+real 2.60
+user 2.59
+sys 0.00
+####################################################
+SYNAPSE_6
+./run.sh: line 25:  6678 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.01
+####################################################
+SYNAPSE_6_e2_1439_e1_954
+./run.sh: line 25:  6680 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.95
+sys 0.04
+####################################################
+SYNAPSE_6_e3_1666_e5_1558
+./run.sh: line 25:  6682 Killed                  $args $prefix/${f}${suffix}
+real 59.99
+user 59.97
+sys 0.02
+####################################################
+SYNAPSE_6_e7_938_e2_1012
+./run.sh: line 25:  6685 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.02
+####################################################
+SYNAPSE_6_e8_1147_e2_1326
+./run.sh: line 25:  6687 Killed                  $args $prefix/${f}${suffix}
+real 60.00
+user 59.98
+sys 0.02
+####################################################
+SYNAPSE_all_e3_1750
+sat
+(:max-memory   5.48
+ :memory       5.20
+ :mk-bool-var  1
+ :num-allocs   3734014
+ :rlimit-count 69156
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+SYNAPSE_all_e3_1864_e3_495
+sat
+(:max-memory   5.48
+ :memory       5.20
+ :mk-bool-var  1
+ :num-allocs   3732881
+ :rlimit-count 69750
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+SYNAPSE_all_e3_1864_e4_34
+sat
+(:max-memory   5.36
+ :memory       4.99
+ :mk-bool-var  1
+ :num-allocs   1910824
+ :rlimit-count 31563
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_all_e3_1864_e5_1637
+sat
+(:max-memory   5.34
+ :memory       4.87
+ :mk-bool-var  1
+ :num-allocs   1840321
+ :rlimit-count 28252
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_all_e3_1864_e6_1336
+unsat
+(:max-memory   5.66
+ :memory       4.93
+ :mk-bool-var  1
+ :num-allocs   2318638
+ :rlimit-count 21399
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+SYNAPSE_all_e3_1864_e7_251
+sat
+(:max-memory   6.12
+ :memory       5.56
+ :mk-bool-var  1
+ :num-allocs   9313575
+ :rlimit-count 137165
+ :time         0.07
+ :total-time   0.08)
+real 0.08
+user 0.08
+sys 0.00
+####################################################
+SYNAPSE_all_e7_907
+unsat
+(:max-memory   7.47
+ :memory       6.64
+ :mk-bool-var  1
+ :num-allocs   32630968
+ :rlimit-count 347027
+ :time         0.13
+ :total-time   0.13)
+real 0.13
+user 0.13
+sys 0.00
+####################################################
+SYNAPSE_all_e7_907_e7_1363
+unsat
+(:max-memory   6.78
+ :memory       5.95
+ :mk-bool-var  1
+ :num-allocs   18630735
+ :rlimit-count 173150
+ :time         0.08
+ :total-time   0.08)
+real 0.09
+user 0.08
+sys 0.00
+####################################################
+SYNAPSE_all_e8_251
+unsat
+(:max-memory   5.66
+ :memory       4.93
+ :mk-bool-var  1
+ :num-allocs   2309634
+ :rlimit-count 19779
+ :time         0.01
+ :total-time   0.01)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_all_e8_251_e1_1852
+sat
+(:max-memory   5.19
+ :memory       4.91
+ :mk-bool-var  1
+ :num-allocs   1537956
+ :rlimit-count 22131
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_all_e8_251_e2_1053
+sat
+(:max-memory   5.20
+ :memory       4.92
+ :mk-bool-var  1
+ :num-allocs   1539454
+ :rlimit-count 22302
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+SYNAPSE_all_e8_251_e3_1472
+sat
+(:max-memory   5.69
+ :memory       5.22
+ :mk-bool-var  1
+ :num-allocs   3823458
+ :rlimit-count 69178
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+SYNAPSE_i1
+sat
+(:max-memory   5.24
+ :memory       4.77
+ :mk-bool-var  1
+ :num-allocs   2116221
+ :rlimit-count 23484
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_1
+unsat
+(:max-memory   6.73
+ :memory       5.99
+ :mk-bool-var  1
+ :num-allocs   3238093
+ :rlimit-count 32020
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_1_e7_1669
+unsat
+(:max-memory   6.85
+ :memory       6.12
+ :mk-bool-var  1
+ :num-allocs   4721596
+ :rlimit-count 42264
+ :time         0.02
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ticket3i_2
+unsat
+(:max-memory   6.65
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3273502
+ :rlimit-count 29764
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_3_e7_1312
+sat
+(:max-memory   6.74
+ :memory       6.37
+ :mk-bool-var  1
+ :num-allocs   4301934
+ :rlimit-count 72248
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ticket3i_3_e7_1312_e7_1495
+sat
+(:max-memory   6.78
+ :memory       6.40
+ :mk-bool-var  1
+ :num-allocs   4099297
+ :rlimit-count 77103
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.00
+####################################################
+ticket3i_3_e7_1312_e8_1916
+unsat
+(:max-memory   6.64
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   3276002
+ :rlimit-count 30106
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.01
+####################################################
+ticket3i_3_e8_1703
+unsat
+(:max-memory   6.65
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   3173285
+ :rlimit-count 29716
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_3_e8_1703_e7_3491
+sat
+(:max-memory   6.78
+ :memory       6.40
+ :mk-bool-var  1
+ :num-allocs   5123394
+ :rlimit-count 86366
+ :time         0.03
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ticket3i_3_e8_1703_e8_2560
+unsat
+(:max-memory   6.65
+ :memory       5.92
+ :mk-bool-var  1
+ :num-allocs   3278295
+ :rlimit-count 30517
+ :time         0.01
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_4
+unsat
+(:max-memory   6.75
+ :memory       6.01
+ :mk-bool-var  1
+ :num-allocs   3334457
+ :rlimit-count 32919
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_4_e7_1775_e7_3320
+unsat
+(:max-memory   7.38
+ :memory       6.55
+ :mk-bool-var  1
+ :num-allocs   5677628
+ :rlimit-count 55794
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ticket3i_5
+unsat
+(:max-memory   6.68
+ :memory       5.95
+ :mk-bool-var  1
+ :num-allocs   3258653
+ :rlimit-count 32528
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_5_e7_3307
+unsat
+(:max-memory   7.47
+ :memory       6.64
+ :mk-bool-var  1
+ :num-allocs   8464058
+ :rlimit-count 90049
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+ticket3i_6
+unsat
+(:max-memory   6.74
+ :memory       6.01
+ :mk-bool-var  1
+ :num-allocs   3265238
+ :rlimit-count 33366
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.01
+####################################################
+ticket3i_6_e7_1096_e7_2688
+unsat
+(:max-memory   7.43
+ :memory       6.61
+ :mk-bool-var  1
+ :num-allocs   7530582
+ :rlimit-count 84961
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.03
+sys 0.01
+####################################################
+ticket3i_7
+unsat
+(:max-memory   6.35
+ :memory       5.61
+ :mk-bool-var  1
+ :num-allocs   3327728
+ :rlimit-count 26473
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.01
+sys 0.00
+####################################################
+ticket3i_7_e1_2192_e1_1852
+unsat
+(:max-memory   6.65
+ :memory       5.91
+ :mk-bool-var  1
+ :num-allocs   5352136
+ :rlimit-count 38828
+ :time         0.03
+ :total-time   0.03)
+real 0.03
+user 0.03
+sys 0.00
+####################################################
+ticket3i_7_e1_2192_e7_3516
+unsat
+(:max-memory   6.80
+ :memory       6.07
+ :mk-bool-var  1
+ :num-allocs   8471908
+ :rlimit-count 70258
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+ticket3i_7_e2_2724_e7_524
+unsat
+(:max-memory   6.89
+ :memory       6.16
+ :mk-bool-var  1
+ :num-allocs   9125706
+ :rlimit-count 66987
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+ticket3i_7_e3_59_e7_2122
+unsat
+(:max-memory   6.87
+ :memory       6.05
+ :mk-bool-var  1
+ :num-allocs   8917721
+ :rlimit-count 70655
+ :time         0.04
+ :total-time   0.04)
+real 0.05
+user 0.05
+sys 0.00
+####################################################
+ticket3i_7_e7_3176
+unsat
+(:max-memory   6.90
+ :memory       6.16
+ :mk-bool-var  1
+ :num-allocs   9126123
+ :rlimit-count 66987
+ :time         0.04
+ :total-time   0.05)
+real 0.05
+user 0.04
+sys 0.00
+####################################################
+ticket3i_7_e8_2126_e7_78
+unsat
+(:max-memory   7.34
+ :memory       6.52
+ :mk-bool-var  1
+ :num-allocs   13735608
+ :rlimit-count 107300
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.06
+sys 0.00
+####################################################
+ticket3i_all
+unsat
+(:max-memory   6.35
+ :memory       5.62
+ :mk-bool-var  1
+ :num-allocs   3295331
+ :rlimit-count 25905
+ :time         0.02
+ :total-time   0.02)
+real 0.02
+user 0.02
+sys 0.00
+####################################################
+ticket3i_all_e1_2706_e7_1776
+unsat
+(:max-memory   6.94
+ :memory       6.12
+ :mk-bool-var  1
+ :num-allocs   9748774
+ :rlimit-count 64728
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ticket3i_all_e2_1117_e7_553
+unsat
+(:max-memory   6.94
+ :memory       6.11
+ :mk-bool-var  1
+ :num-allocs   9736490
+ :rlimit-count 64871
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ticket3i_all_e3_557_e7_3464
+unsat
+(:max-memory   6.83
+ :memory       6.09
+ :mk-bool-var  1
+ :num-allocs   8739812
+ :rlimit-count 69910
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ticket3i_all_e7_1837
+unsat
+(:max-memory   6.94
+ :memory       6.11
+ :mk-bool-var  1
+ :num-allocs   9736406
+ :rlimit-count 64871
+ :time         0.04
+ :total-time   0.04)
+real 0.04
+user 0.04
+sys 0.00
+####################################################
+ticket3i_all_e8_505_e7_2450
+unsat
+(:max-memory   7.53
+ :memory       6.72
+ :mk-bool-var  1
+ :num-allocs   14508753
+ :rlimit-count 118670
+ :time         0.06
+ :total-time   0.07)
+real 0.07
+user 0.07
+sys 0.00
+####################################################
+traffic_e7_348
+sat
+(:max-memory   4.19
+ :memory       4.19
+ :mk-bool-var  1
+ :num-allocs   573593
+ :rlimit-count 4405
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+traffic_e7_46_e7_171
+sat
+(:max-memory   4.32
+ :memory       4.32
+ :mk-bool-var  1
+ :num-allocs   596668
+ :rlimit-count 4666
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.00
+####################################################
+traffic_e7_46_e8_16
+unsat
+(:max-memory   5.07
+ :memory       4.34
+ :mk-bool-var  1
+ :num-allocs   1538788
+ :rlimit-count 6819
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+tramway_e7_1834
+./run.sh: line 25:  6777 Killed                  $args $prefix/${f}${suffix}
+real 60.14
+user 57.64
+sys 2.49
+####################################################
+tramway_e7_1834_e7_2363
+./run.sh: line 25:  6779 Killed                  $args $prefix/${f}${suffix}
+real 60.14
+user 57.65
+sys 2.48
+####################################################
+tramway_e7_1834_e8_3192
+./run.sh: line 25:  6781 Killed                  $args $prefix/${f}${suffix}
+real 60.15
+user 57.42
+sys 2.72
+####################################################
+twisted_counters
+unsat
+(:max-memory   21.09
+ :memory       19.75
+ :mk-bool-var  1
+ :num-allocs   1027121553
+ :rlimit-count 2236830
+ :time         1.11
+ :total-time   1.12)
+real 1.12
+user 1.11
+sys 0.01
+####################################################
+two_counters
+unsat
+(:max-memory   6.16
+ :memory       5.38
+ :mk-bool-var  1
+ :num-allocs   15245755
+ :rlimit-count 80201
+ :time         0.05
+ :total-time   0.06)
+real 0.06
+user 0.05
+sys 0.00
+####################################################
+two_counters_e1_268
+sat
+(:max-memory   4.58
+ :memory       4.30
+ :mk-bool-var  1
+ :num-allocs   859642
+ :rlimit-count 5514
+ :time         0.00
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+two_counters_e2_3
+sat
+(:max-memory   4.71
+ :memory       4.63
+ :mk-bool-var  1
+ :num-allocs   1266719
+ :rlimit-count 13414
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+two_counters_e3_325
+sat
+(:max-memory   4.72
+ :memory       4.53
+ :mk-bool-var  1
+ :num-allocs   1229415
+ :rlimit-count 12264
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.01
+sys 0.00
+####################################################
+two_counters_e7_222
+sat
+(:max-memory   4.58
+ :memory       4.30
+ :mk-bool-var  1
+ :num-allocs   859418
+ :rlimit-count 5429
+ :time         0.01
+ :total-time   0.01)
+real 0.01
+user 0.00
+sys 0.01
+####################################################
+ums
+./run.sh: line 25:  6797 Killed                  $args $prefix/${f}${suffix}
+real 60.16
+user 57.19
+sys 2.96
+####################################################
+ums_e7_1700
+./run.sh: line 25:  6799 Killed                  $args $prefix/${f}${suffix}
+real 60.16
+user 57.07
+sys 3.08
+####################################################
+ums_e8_1032
+./run.sh: line 25:  6821 Killed                  $args $prefix/${f}${suffix}
+real 60.16
+user 57.00
+sys 3.16
