@@ -1,2 +1,0 @@
-Get kind2 to compile
-Write script to process and plot results

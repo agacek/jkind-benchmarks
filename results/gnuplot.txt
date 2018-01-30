@@ -1,0 +1,19 @@
+set term png size 1200, 800
+set output "graph.png"
+
+set datafile separator " "
+
+set grid
+set logscale x
+set xlabel "Total time"
+set ylabel "Number of solved instances"
+set key outside
+set yrange [0:688]
+
+plot \
+  'processed/jkind.txt' title "JKind (688)" with linespoint, \
+  'processed/nuxmv.txt' title "nuXmv (688)" with linespoint, \
+  'processed/kind2.txt' title "Kind 2 (664)" with linespoint, \
+  'processed/z3.txt' title "Z3 (654)" with linespoint, \
+
+quit
