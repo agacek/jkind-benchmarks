@@ -1,4 +1,4 @@
-set term png size 1200, 800
+set term pngcairo size 1200, 800 dashed
 set output "graph.png"
 
 set datafile separator " "
@@ -11,9 +11,9 @@ set key outside
 set yrange [0:688]
 
 plot \
-  'processed/jkind.txt' title "JKind (688)" with linespoint, \
-  'processed/nuxmv.txt' title "nuXmv (688)" with linespoint, \
-  'processed/kind2.txt' title "Kind 2 (664)" with linespoint, \
-  'processed/z3.txt' title "Z3 (654)" with linespoint, \
+  'processed/jkind.txt' title "JKind (688)" with lines lw 2 lc 0, \
+  'processed/nuxmv.txt' title "nuXmv (688)" with lines lw 2 lc 1, \
+  'processed/kind2.txt' title "Kind 2 (664)" with lines lw 2, \
+  'processed/z3.txt' title "Z3 (654)" with lines lw 2 lc rgb "#267F00", \
 
 quit
