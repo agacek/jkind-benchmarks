@@ -1,2 +1,0 @@
-[mathsat]
-theory.euf.enabled = false
