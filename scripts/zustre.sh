@@ -2,4 +2,4 @@
 
 ZUSTRE=zustre
 
-exec $ZUSTRE "$@"
+exec $ZUSTRE --timeout 60 "$@"

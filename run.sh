@@ -26,7 +26,7 @@ function run_group () {
         echo "  $f"
         echo "####################################################" >> $logfile
         echo $f >> $logfile
-        (ulimit -t 60 -v 30000000; time -p $args $prefix/${f}${suffix}) >> $logfile 2>&1
+        (time -p $args $prefix/${f}${suffix}) >> $logfile 2>&1
     done
 }
 
@@ -37,16 +37,16 @@ function run_group () {
 benchmarks=benchmarks/files.txt
 
 # nuXmv
-#run_group "nuXmv" $benchmarks "results/nuxmv.txt" "benchmarks/nuxmv" ".smv" ./scripts/nuxmv.sh
+run_group "nuXmv" $benchmarks "results/nuxmv.txt" "benchmarks/nuxmv" ".smv" ./scripts/nuxmv.sh
 
 # z3
-#run_group "Z3" $benchmarks "results/z3.txt" "benchmarks/z3" ".horn.smt2" ./scripts/z3.sh
+run_group "Z3" $benchmarks "results/z3.txt" "benchmarks/z3" ".horn.smt2" ./scripts/z3.sh
 
 # kind2
-#run_group "Kind" $benchmarks "results/kind2.txt" "benchmarks/lustre" ".lus" ./scripts/kind2.sh
+run_group "Kind" $benchmarks "results/kind2.txt" "benchmarks/lustre" ".lus" ./scripts/kind2.sh
 
 # jkind
-#run_group "JKind" $benchmarks "results/jkind.txt" "benchmarks/lustre" ".lus" ./scripts/jkind.sh
+run_group "JKind" $benchmarks "results/jkind.txt" "benchmarks/lustre" ".lus" ./scripts/jkind.sh
 
 # zustre
 run_group "Zustre" $benchmarks "results/zustre.txt" "benchmarks/lustre" ".lus" ./scripts/zustre.sh
