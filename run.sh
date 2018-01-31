@@ -43,7 +43,10 @@ benchmarks=benchmarks/files.txt
 #run_group "Z3" $benchmarks "results/z3.txt" "benchmarks/z3" ".horn.smt2" ./scripts/z3.sh
 
 # kind2
-run_group "Kind" $benchmarks "results/kind2.txt" "benchmarks/lustre" ".lus" ./scripts/kind2.sh
+#run_group "Kind" $benchmarks "results/kind2.txt" "benchmarks/lustre" ".lus" ./scripts/kind2.sh
 
 # jkind
-run_group "JKind" $benchmarks "results/jkind.txt" "benchmarks/lustre" ".lus" ./scripts/jkind.sh
+#run_group "JKind" $benchmarks "results/jkind.txt" "benchmarks/lustre" ".lus" ./scripts/jkind.sh
+
+# zustre
+run_group "Zustre" $benchmarks "results/zustre.txt" "benchmarks/lustre" ".lus" ./scripts/zustre.sh

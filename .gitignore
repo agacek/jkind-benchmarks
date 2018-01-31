@@ -1,1 +1,5 @@
 results/processed
+*.h
+*.lusic
+*.xml
+*.smt2
