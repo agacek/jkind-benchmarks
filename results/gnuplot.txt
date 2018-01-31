@@ -8,7 +8,10 @@ set logscale x
 set xlabel "Total time"
 set ylabel "Number of solved instances"
 set key left
-set yrange [0:688]
+set yrange [0:700]
+
+set border 3 back
+set tics nomirror
 
 plot \
   'processed/z3.txt' title "Z3 (654)" with lines lw 2 lt 5 lc 7, \
