@@ -3,3 +3,4 @@ results/processed
 *.lusic
 *.xml
 *.smt2
+nohup.out
