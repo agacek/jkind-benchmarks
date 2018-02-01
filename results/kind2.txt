@@ -34561,11 +34561,36 @@ sys 0.24
 switch2
  kind2 v1.1.0-16-g9572d9b
 
-[1m<[95mError[39m>[22m Parser error at line 5 col. 2: Syntax error
 
-real 0.00
-user 0.00
-sys 0.00
+
+================================================================================
+[1mAnalyzing [34m[34mtop[39m[39m[22m
+  with First top: "[34mtop[39m" (no subsystems)
+
+[1m<[91mFailure[39m>[22m Property [94mOK[39m is invalid by bounded model checking for k=2 after 0.124s.
+
+[31mCounterexample[39m:
+  [1mNode[22m [34mtop[39m ()
+    == [1mInputs[22m ==
+    [94mset            [39m [90mfalse[39m  true [90mfalse[39m
+    [94mtreset         [39m [90mfalse[39m  true [90mfalse[39m
+    [94minitial_keyword[39m  true [90mfalse[39m [90mfalse[39m
+    == [1mOutputs[22m ==
+    [94mOK             [39m  true  true [90mfalse[39m
+    == [1mLocals[22m ==
+    [94mV16_level      [39m  true [90mfalse[39m [90mfalse[39m
+    [94mV17_level1     [39m  true  true  true
+    
+  
+--------------------------------------------------------------------------------
+[1mSummary of properties[22m:
+--------------------------------------------------------------------------------
+[94mOK[39m: [91minvalid after 2 steps[39m
+================================================================================
+
+real 0.51
+user 0.20
+sys 0.11
 ####################################################
 SYNAPSE_1
  kind2 v1.1.0-16-g9572d9b
