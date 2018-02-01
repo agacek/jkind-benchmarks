@@ -9,16 +9,16 @@ set xlabel "Total time"
 set ylabel "Number of solved instances"
 set key left
 set yrange [0:700]
+set xrange [0.01:2000]
 
 set border 3 back
 set tics nomirror
 
 plot \
-  'processed/z3.txt' title "Z3 (657)" with lines lw 2 lt 5 lc 7, \
-  'processed/nuxmv.txt' title "nuXmv-IC3 (688)" with lines lw 2 lt 4, \
-  'processed/zustre.txt' title "Zustre (657)" with lines lw 2 lt 3, \
-  'processed/kind2.txt' title "Kind 2 (665)" with lines lw 2 lt 2 lc rgb "#267F00", \
   'processed/jkind.txt' title "JKind (671)" with lines lw 2 lt 1, \
-
+  'processed/kind2.txt' title "Kind 2 (665)" with lines lw 2 lt 2 lc rgb "#267F00", \
+  'processed/z3.txt' title "Z3 (657)" with lines lw 2 lt 5 lc 7, \
+  'processed/zustre.txt' title "Zustre (657)" with lines lw 2 lt 3, \
+  'processed/nuxmv.txt' title "nuXmv-IC3 (641)" with lines lw 2 lt 4, \
 
 quit
