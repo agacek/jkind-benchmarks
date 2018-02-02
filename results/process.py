@@ -4,7 +4,7 @@ import os
 if not os.path.isdir('processed'):
     os.mkdir('processed')
 
-for filename in ['nuxmv.txt', 'z3.txt', 'kind2.txt', 'jkind.txt', 'zustre.txt']:
+for filename in ['jkind.txt', 'kind2.txt', 'nuxmv.txt', 'z3.txt', 'zustre.txt']:
     times = []
 
     with open(filename) as raw:
