@@ -21,6 +21,9 @@ for filename in ['nuxmv.txt', 'z3.txt', 'kind2.txt', 'jkind.txt', 'zustre.txt']:
                     # Check for Zustre fatal errors
                     if 'Fatal error' in lines[i]:
                         time = 60
+                    # Check for nuXmv crashes
+                    if 'Segmentation fault' in lines[i]:
+                        time = 60
                     i -= 1
 
                 if time < 60:
