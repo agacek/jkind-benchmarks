@@ -40,9 +40,7 @@ benchmarks=benchmarks/files.txt
 # nuXmv does not seem to have a timeout option so it needs to run with
 # ulimit above. Other programs should not use ulimit since they use
 # multiple cores and ulimit is unable to restrict for 'wall
-# time'. Also nuxmv currently barfs on all boolean models. These
-# models verify almost instantly anyways so we can ignore that for
-# now.
+# time'.
 
 # nuXmv
 #run_group "nuXmv" $benchmarks "results/nuxmv.txt" "benchmarks/nuxmv" ".smv" ./scripts/nuxmv.sh
