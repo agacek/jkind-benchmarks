@@ -37,4 +37,4 @@ for filename in ['jkind.txt', 'kind2.txt', 'nuxmv.txt', 'z3.txt', 'zustre.txt']:
             sum += time
             out.write(f'{sum} {i}\n')
 
-    print(f'{filename} -> {len(times)}')
+    print('{} -> {}'.format(filename, len(times)))
