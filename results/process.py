@@ -35,6 +35,6 @@ for filename in ['jkind.txt', 'kind2.txt', 'nuxmv.txt', 'z3.txt', 'zustre.txt']:
         sum = 0
         for i, time in enumerate(times):
             sum += time
-            out.write(f'{sum} {i}\n')
+            out.write('{} {}\n'.format(sum, i))
 
     print('{} -> {}'.format(filename, len(times)))
