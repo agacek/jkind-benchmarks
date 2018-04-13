@@ -5,7 +5,7 @@ set datafile separator " "
 
 set grid
 set logscale x
-set xlabel "Total time"
+set xlabel "Total time (seconds)"
 set ylabel "Number of solved instances"
 set key left
 set yrange [0:700]
